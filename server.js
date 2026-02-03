@@ -491,8 +491,8 @@ function getMiniAppJS() {
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-    console.log(\`🚀 Server running on port \${PORT}\`);
-    console.log(\`📊 Admin panel: http://localhost:\${PORT}/admin\`);
-    console.log(\`📱 Mini App: http://localhost:\${PORT}/app\`);
-    console.log(\`📈 History entries: \${dashboardData.history.length}\`);
+    console.log('Server running on port ' + PORT);
+    console.log('Admin panel: http://localhost:' + PORT + '/admin');
+    console.log('Mini App: http://localhost:' + PORT + '/app');
+    console.log('History entries: ' + dashboardData.history.length);
 });
