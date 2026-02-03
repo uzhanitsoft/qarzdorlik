@@ -1,0 +1,4717 @@
+{
+  "agents": [
+    {
+      "name": "Abdulaziz Maxmudov",
+      "debtors": [
+        {
+          "name": "1",
+          "usd": 923,
+          "uzs": 130
+        },
+        {
+          "name": "2",
+          "usd": 902,
+          "uzs": 15.191
+        },
+        {
+          "name": "3",
+          "usd": 839,
+          "uzs": 1.041
+        },
+        {
+          "name": "4",
+          "usd": 782,
+          "uzs": 54
+        },
+        {
+          "name": "5",
+          "usd": 702,
+          "uzs": 20.083
+        },
+        {
+          "name": "6",
+          "usd": 699,
+          "uzs": 9.671
+        },
+        {
+          "name": "7",
+          "usd": 653,
+          "uzs": 3.719
+        },
+        {
+          "name": "8",
+          "usd": 574,
+          "uzs": 5.641
+        },
+        {
+          "name": "9",
+          "usd": 520,
+          "uzs": 6.918
+        },
+        {
+          "name": "10",
+          "usd": 451,
+          "uzs": 368.493
+        },
+        {
+          "name": "11",
+          "usd": 422,
+          "uzs": 71.246
+        },
+        {
+          "name": "12",
+          "usd": 409,
+          "uzs": 77.73
+        },
+        {
+          "name": "13",
+          "usd": 388.5723263888867,
+          "uzs": 82.832
+        },
+        {
+          "name": "14",
+          "usd": 376.511863425927,
+          "uzs": 12.8
+        },
+        {
+          "name": "15",
+          "usd": 365,
+          "uzs": 10.041
+        },
+        {
+          "name": "16",
+          "usd": 365,
+          "uzs": 2410.126
+        },
+        {
+          "name": "17",
+          "usd": 365,
+          "uzs": 12.4
+        },
+        {
+          "name": "18",
+          "usd": 365,
+          "uzs": 2.074
+        },
+        {
+          "name": "19",
+          "usd": 365,
+          "uzs": 0
+        },
+        {
+          "name": "20",
+          "usd": 365,
+          "uzs": 130.45
+        },
+        {
+          "name": "21",
+          "usd": 365,
+          "uzs": 314.728
+        },
+        {
+          "name": "22",
+          "usd": 365,
+          "uzs": 1780.871
+        },
+        {
+          "name": "23",
+          "usd": 365,
+          "uzs": 2934.199
+        },
+        {
+          "name": "24",
+          "usd": 362.5448611111133,
+          "uzs": 85.649
+        },
+        {
+          "name": "25",
+          "usd": 315.5623842592613,
+          "uzs": 46.42
+        },
+        {
+          "name": "26",
+          "usd": 293.2670486111092,
+          "uzs": 234.271
+        },
+        {
+          "name": "27",
+          "usd": 287.3559143518505,
+          "uzs": 35.896
+        },
+        {
+          "name": "28",
+          "usd": 278.5621874999997,
+          "uzs": 23.94
+        },
+        {
+          "name": "29",
+          "usd": 269.5342708333337,
+          "uzs": 0
+        },
+        {
+          "name": "30",
+          "usd": 261.5058564814826,
+          "uzs": 318.165
+        },
+        {
+          "name": "31",
+          "usd": 261.21704861111357,
+          "uzs": 34.219
+        },
+        {
+          "name": "32",
+          "usd": 254.07916666667006,
+          "uzs": 9.021
+        },
+        {
+          "name": "33",
+          "usd": 244.49798611111328,
+          "uzs": 17
+        },
+        {
+          "name": "34",
+          "usd": 232.47334490740468,
+          "uzs": 0.041
+        },
+        {
+          "name": "35",
+          "usd": 231.3933680555565,
+          "uzs": 0
+        },
+        {
+          "name": "36",
+          "usd": 180.49211805555387,
+          "uzs": 173.819
+        },
+        {
+          "name": "37",
+          "usd": 166.49715277777432,
+          "uzs": 0
+        },
+        {
+          "name": "38",
+          "usd": 150.53944444444642,
+          "uzs": 96
+        },
+        {
+          "name": "39",
+          "usd": 145.45793981481256,
+          "uzs": 280.181
+        },
+        {
+          "name": "40",
+          "usd": 145.45347222222335,
+          "uzs": 60.624
+        },
+        {
+          "name": "41",
+          "usd": 138.4052314814835,
+          "uzs": 16.002
+        },
+        {
+          "name": "42",
+          "usd": 138.3728703703673,
+          "uzs": 37.288
+        },
+        {
+          "name": "43",
+          "usd": 131.5919212962981,
+          "uzs": 2703.249
+        },
+        {
+          "name": "44",
+          "usd": 120.40415509259037,
+          "uzs": 41.201
+        },
+        {
+          "name": "45",
+          "usd": 118.45538194444089,
+          "uzs": 34.391
+        },
+        {
+          "name": "46",
+          "usd": 106.48310185185255,
+          "uzs": 421.509
+        },
+        {
+          "name": "47",
+          "usd": 106.47592592592264,
+          "uzs": 166.369
+        },
+        {
+          "name": "48",
+          "usd": 104.4742245370362,
+          "uzs": 0.005
+        },
+        {
+          "name": "49",
+          "usd": 99.5192708333343,
+          "uzs": 69.138
+        },
+        {
+          "name": "50",
+          "usd": 99.48809027778043,
+          "uzs": 141.469
+        },
+        {
+          "name": "51",
+          "usd": 97.50690972222219,
+          "uzs": 7.548
+        },
+        {
+          "name": "52",
+          "usd": 93.4556712962949,
+          "uzs": 76.547
+        },
+        {
+          "name": "53",
+          "usd": 82.56100694444467,
+          "uzs": 347.891
+        },
+        {
+          "name": "54",
+          "usd": 79.55126157407358,
+          "uzs": 4393.807
+        },
+        {
+          "name": "55",
+          "usd": 79.26689814814745,
+          "uzs": 24.069
+        },
+        {
+          "name": "56",
+          "usd": 78.58024305555591,
+          "uzs": 37.851
+        },
+        {
+          "name": "57",
+          "usd": 77.41379629629955,
+          "uzs": 203.829
+        },
+        {
+          "name": "58",
+          "usd": 76.4873263888876,
+          "uzs": 66.49
+        },
+        {
+          "name": "59",
+          "usd": 75.5268865740727,
+          "uzs": 1561.724
+        },
+        {
+          "name": "60",
+          "usd": 72.59677083333372,
+          "uzs": 16.888
+        },
+        {
+          "name": "61",
+          "usd": 71.49840277777548,
+          "uzs": 62.35
+        },
+        {
+          "name": "62",
+          "usd": 71.46108796296176,
+          "uzs": 3.357
+        },
+        {
+          "name": "63",
+          "usd": 69.55207175925898,
+          "uzs": 1.278
+        },
+        {
+          "name": "64",
+          "usd": 69.5430208333346,
+          "uzs": 833.096
+        },
+        {
+          "name": "65",
+          "usd": 69.49956018518424,
+          "uzs": 7.31
+        },
+        {
+          "name": "66",
+          "usd": 69.41937499999767,
+          "uzs": 25.942
+        },
+        {
+          "name": "67",
+          "usd": 65.47982638888789,
+          "uzs": 482.6
+        },
+        {
+          "name": "68",
+          "usd": 65.45421296296263,
+          "uzs": 5.676
+        },
+        {
+          "name": "69",
+          "usd": 64.53709490740584,
+          "uzs": 58.042
+        },
+        {
+          "name": "70",
+          "usd": 64.53335648147913,
+          "uzs": 17.719
+        },
+        {
+          "name": "71",
+          "usd": 62.507337962961174,
+          "uzs": 12.355
+        },
+        {
+          "name": "72",
+          "usd": 62.50560185185168,
+          "uzs": 34.115
+        },
+        {
+          "name": "73",
+          "usd": 59.38555555555649,
+          "uzs": 0
+        },
+        {
+          "name": "74",
+          "usd": 58.63155092592933,
+          "uzs": 3.411
+        },
+        {
+          "name": "75",
+          "usd": 58.580995370371966,
+          "uzs": 3125.071
+        },
+        {
+          "name": "76",
+          "usd": 58.573460648149194,
+          "uzs": 35.425
+        },
+        {
+          "name": "77",
+          "usd": 58.56881944444467,
+          "uzs": 0
+        },
+        {
+          "name": "78",
+          "usd": 58.477708333331975,
+          "uzs": 573.198
+        },
+        {
+          "name": "79",
+          "usd": 55.46796296296088,
+          "uzs": 986.825
+        },
+        {
+          "name": "80",
+          "usd": 51.60976851851592,
+          "uzs": 771.027
+        },
+        {
+          "name": "81",
+          "usd": 51.58210648148088,
+          "uzs": 2104.954
+        },
+        {
+          "name": "82",
+          "usd": 51.568344907405844,
+          "uzs": 100
+        },
+        {
+          "name": "83",
+          "usd": 37.5561111111092,
+          "uzs": 424.762
+        },
+        {
+          "name": "84",
+          "usd": 37.252638888887304,
+          "uzs": 103.095
+        },
+        {
+          "name": "85",
+          "usd": 36.55849537037284,
+          "uzs": 0.085
+        },
+        {
+          "name": "86",
+          "usd": 36.55739583333343,
+          "uzs": 15.213
+        },
+        {
+          "name": "87",
+          "usd": 34.60335648147884,
+          "uzs": 18.974
+        },
+        {
+          "name": "88",
+          "usd": 34.386354166665114,
+          "uzs": 139.41
+        },
+        {
+          "name": "89",
+          "usd": 34.383472222223645,
+          "uzs": 0
+        },
+        {
+          "name": "90",
+          "usd": 34.30119212962745,
+          "uzs": 0
+        },
+        {
+          "name": "91",
+          "usd": 34.05868055555766,
+          "uzs": 0
+        },
+        {
+          "name": "92",
+          "usd": 32.2065625000032,
+          "uzs": 1.268
+        },
+        {
+          "name": "93",
+          "usd": 31.607824074075324,
+          "uzs": 46.362
+        },
+        {
+          "name": "94",
+          "usd": 28.58386574074393,
+          "uzs": 0
+        },
+        {
+          "name": "95",
+          "usd": 28.573877314811398,
+          "uzs": 0.003
+        },
+        {
+          "name": "96",
+          "usd": 28.566400462965248,
+          "uzs": 124.138
+        },
+        {
+          "name": "97",
+          "usd": 27.514432870368182,
+          "uzs": 184.069
+        }
+      ],
+      "totalUSD": 19848.282581018502,
+      "totalUZS": 30537.894999999997,
+      "debtorCount": 97
+    },
+    {
+      "name": "Abdulazizhon",
+      "debtors": [
+        {
+          "name": "1",
+          "usd": 459,
+          "uzs": 277.974
+        },
+        {
+          "name": "2",
+          "usd": 365,
+          "uzs": 148.675
+        },
+        {
+          "name": "3",
+          "usd": 365,
+          "uzs": 25
+        },
+        {
+          "name": "4",
+          "usd": 310.49527777777985,
+          "uzs": 0
+        },
+        {
+          "name": "5",
+          "usd": 308.52137731481344,
+          "uzs": 0
+        },
+        {
+          "name": "6",
+          "usd": 199.51496527777635,
+          "uzs": 2.294
+        },
+        {
+          "name": "7",
+          "usd": 183.58711805555504,
+          "uzs": 319.821
+        },
+        {
+          "name": "8",
+          "usd": 139.5446527777749,
+          "uzs": 838.144
+        },
+        {
+          "name": "9",
+          "usd": 107,
+          "uzs": 365.184
+        },
+        {
+          "name": "10",
+          "usd": 101.49284722222365,
+          "uzs": 375.194
+        },
+        {
+          "name": "11",
+          "usd": 59,
+          "uzs": 174
+        },
+        {
+          "name": "12",
+          "usd": 55.445150462961465,
+          "uzs": 1304.861
+        },
+        {
+          "name": "13",
+          "usd": 50.66269675926014,
+          "uzs": 1339.225
+        },
+        {
+          "name": "14",
+          "usd": 47.62091435184993,
+          "uzs": 234.869
+        },
+        {
+          "name": "15",
+          "usd": 47.41116898148175,
+          "uzs": 5846.03
+        },
+        {
+          "name": "16",
+          "usd": 37.39569444444351,
+          "uzs": 39.316
+        },
+        {
+          "name": "17",
+          "usd": 36.34505787037051,
+          "uzs": 59.627
+        },
+        {
+          "name": "18",
+          "usd": 35,
+          "uzs": 1875.851
+        },
+        {
+          "name": "19",
+          "usd": 34.62468749999971,
+          "uzs": 899.995
+        },
+        {
+          "name": "20",
+          "usd": 34.32353009259532,
+          "uzs": 316.235
+        },
+        {
+          "name": "21",
+          "usd": 34.262083333334886,
+          "uzs": 640.126
+        },
+        {
+          "name": "22",
+          "usd": 34,
+          "uzs": 383.085
+        },
+        {
+          "name": "23",
+          "usd": 31.987233796295186,
+          "uzs": 3218.628
+        },
+        {
+          "name": "24",
+          "usd": 31,
+          "uzs": 26.916
+        }
+      ],
+      "totalUSD": 3108.2344560185156,
+      "totalUZS": 18711.050000000003,
+      "debtorCount": 24
+    },
+    {
+      "name": "Abdulhafiz",
+      "debtors": [
+        {
+          "name": "1",
+          "usd": 131.36062500000116,
+          "uzs": 0
+        },
+        {
+          "name": "2",
+          "usd": 110.47730324073927,
+          "uzs": 0
+        },
+        {
+          "name": "3",
+          "usd": 108,
+          "uzs": 0
+        },
+        {
+          "name": "4",
+          "usd": 87.44662037037051,
+          "uzs": 0
+        },
+        {
+          "name": "5",
+          "usd": 86.55278935185197,
+          "uzs": 0
+        },
+        {
+          "name": "6",
+          "usd": 81.45938657407532,
+          "uzs": 0
+        },
+        {
+          "name": "7",
+          "usd": 78,
+          "uzs": 0
+        },
+        {
+          "name": "8",
+          "usd": 58.490231481482624,
+          "uzs": 0
+        },
+        {
+          "name": "9",
+          "usd": 51.20162037036789,
+          "uzs": 0
+        },
+        {
+          "name": "10",
+          "usd": 43,
+          "uzs": 0
+        },
+        {
+          "name": "11",
+          "usd": 38.35990740740817,
+          "uzs": 0
+        }
+      ],
+      "totalUSD": 874.3484837962969,
+      "totalUZS": 0,
+      "debtorCount": 11
+    },
+    {
+      "name": "Aligarh",
+      "debtors": [
+        {
+          "name": "Axadjon Svaboda",
+          "usd": 84.456,
+          "uzs": 0
+        },
+        {
+          "name": "Aziz aka  kantiner",
+          "usd": 199.508,
+          "uzs": 0
+        },
+        {
+          "name": "Aligarx Doctor&Fresh",
+          "usd": 206.35,
+          "uzs": 0
+        },
+        {
+          "name": "88-Do`kon Doctor-F",
+          "usd": 11.948,
+          "uzs": 0
+        },
+        {
+          "name": "17-Do`kon Doctor-F",
+          "usd": 165,
+          "uzs": 0
+        },
+        {
+          "name": "Ibroxim Aka Kontener Doctor-F",
+          "usd": 147.214,
+          "uzs": 0
+        },
+        {
+          "name": "Islom Aka Kontener Doctor-F",
+          "usd": 74,
+          "uzs": 0
+        },
+        {
+          "name": "Azizxon Aka Kontener Doctor-F",
+          "usd": 30.9,
+          "uzs": 0
+        },
+        {
+          "name": "Akmalxon Aka Kontener Doctor-F",
+          "usd": 28.765,
+          "uzs": 0
+        },
+        {
+          "name": "21/11 Do`kon Doctor-F",
+          "usd": 59.941,
+          "uzs": 0
+        },
+        {
+          "name": "Dili Aka Tashqari Doctor-F",
+          "usd": 86.967,
+          "uzs": 0
+        },
+        {
+          "name": "Muslimbek Aka",
+          "usd": 895.1,
+          "uzs": 0
+        },
+        {
+          "name": "173-Do`kon Doctor-F",
+          "usd": 37.781,
+          "uzs": 0
+        },
+        {
+          "name": "Yulduzxon Apa Tashqari  Doctor-F",
+          "usd": 23.634,
+          "uzs": 0
+        },
+        {
+          "name": "14/12 Marxaboxon apa",
+          "usd": 53.453,
+          "uzs": 0
+        },
+        {
+          "name": "Mahalla Mirolim aka Salohidin",
+          "usd": 333,
+          "uzs": 0
+        },
+        {
+          "name": "Rustam Konteyner",
+          "usd": 113.018,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem dukon Erkin aka",
+          "usd": 0.55,
+          "uzs": 0
+        },
+        {
+          "name": "83dukon Laylo opa",
+          "usd": 44.109,
+          "uzs": 0
+        },
+        {
+          "name": "Alisher Akani Ogli Meva bozor",
+          "usd": 23.942,
+          "uzs": 0
+        },
+        {
+          "name": "Saloxiddin Mahalla ",
+          "usd": 28.417,
+          "uzs": 0
+        },
+        {
+          "name": "158-Do'kon Dilnozaxon Apa ",
+          "usd": 132.707,
+          "uzs": 0
+        },
+        {
+          "name": "Shoira opa Farobiy",
+          "usd": 700.158,
+          "uzs": 0
+        },
+        {
+          "name": "Akmal aka  kantiner",
+          "usd": 1351.657,
+          "uzs": 0
+        },
+        {
+          "name": "Mahmudjon aka Kontener",
+          "usd": 490.03,
+          "uzs": 0
+        },
+        {
+          "name": "Feruzaxon apa Tunel",
+          "usd": 72.435,
+          "uzs": 0
+        },
+        {
+          "name": "MAJID TOGA FAROBIY",
+          "usd": 0.001,
+          "uzs": 0
+        },
+        {
+          "name": "AXROR AKA ",
+          "usd": 2675.168,
+          "uzs": 0
+        },
+        {
+          "name": "126dukon",
+          "usd": 16.923,
+          "uzs": 0
+        },
+        {
+          "name": "88-Do'kon Mayramxon apa",
+          "usd": 69.958,
+          "uzs": 0
+        },
+        {
+          "name": "90-Do'kon",
+          "usd": 42.345,
+          "uzs": 0
+        },
+        {
+          "name": "UKTAM AKA MAHALLA",
+          "usd": 842.094,
+          "uzs": 0
+        },
+        {
+          "name": "Mansur aka Mahalla",
+          "usd": 88.793,
+          "uzs": 0
+        },
+        {
+          "name": "111-Do\"kon .",
+          "usd": 38.509,
+          "uzs": 0
+        },
+        {
+          "name": "69-Do`kon Baxtiyor Aka",
+          "usd": 152.87,
+          "uzs": 0
+        },
+        {
+          "name": "Sardorxon Kontener",
+          "usd": 93.72,
+          "uzs": 0
+        },
+        {
+          "name": "Mahliyo opa  mahalla",
+          "usd": 142.443,
+          "uzs": 0
+        },
+        {
+          "name": "Dilnavoz Apa Mahalla Holbek yoni",
+          "usd": 194.95,
+          "uzs": 0
+        },
+        {
+          "name": "57-Do`kon",
+          "usd": 502.949,
+          "uzs": 0
+        },
+        {
+          "name": "Abdulazizxon 172 Dukon MSM ",
+          "usd": 242.168,
+          "uzs": 0
+        },
+        {
+          "name": "Kantiner Darvoza Alyorjon aka",
+          "usd": 676.278,
+          "uzs": 0
+        },
+        {
+          "name": "Abubakir Uka",
+          "usd": 163.2,
+          "uzs": 0
+        },
+        {
+          "name": "Mashxuraxon apa",
+          "usd": 668.68,
+          "uzs": 0
+        },
+        {
+          "name": "Salohiddin Uktam akani oldi",
+          "usd": 280.848,
+          "uzs": 0
+        },
+        {
+          "name": "Laziz aka kerasis kantiner",
+          "usd": 788.714,
+          "uzs": 0
+        },
+        {
+          "name": "23dukon  ",
+          "usd": 202.476,
+          "uzs": 0
+        },
+        {
+          "name": "116dukon",
+          "usd": 0.211,
+          "uzs": 0
+        },
+        {
+          "name": "3blok Murotxon",
+          "usd": 259.95,
+          "uzs": 0
+        },
+        {
+          "name": "Lazizxon Aka Mahalla",
+          "usd": 961.007,
+          "uzs": 0
+        },
+        {
+          "name": "119DUKON",
+          "usd": 296.64,
+          "uzs": 0
+        },
+        {
+          "name": "Toxir aka Myasa Dom",
+          "usd": 781.972,
+          "uzs": 0
+        },
+        {
+          "name": "Jamshidjon Aka Kontener²",
+          "usd": 457.057,
+          "uzs": 0
+        },
+        {
+          "name": "45-Do`kon",
+          "usd": 99.966,
+          "uzs": 0
+        },
+        {
+          "name": "AbduHamid aka kantiner",
+          "usd": 109.373,
+          "uzs": 0
+        },
+        {
+          "name": "Muzaffar aka Kontener.",
+          "usd": 77.994,
+          "uzs": 0
+        },
+        {
+          "name": "Xolbek mahalla",
+          "usd": 199.995,
+          "uzs": 0
+        },
+        {
+          "name": "74-Do`kon ",
+          "usd": 540.334,
+          "uzs": 0
+        },
+        {
+          "name": "Johongir  aka mahalla",
+          "usd": 176.552,
+          "uzs": 0
+        },
+        {
+          "name": "34dukon",
+          "usd": 570.192,
+          "uzs": 0
+        },
+        {
+          "name": "Naxtga Jinnixona",
+          "usd": 292.202,
+          "uzs": 0
+        },
+        {
+          "name": "ABDURAHMON AKA mahalla",
+          "usd": 197.021,
+          "uzs": 0
+        },
+        {
+          "name": "Abubakir. Kontener",
+          "usd": 1496.488,
+          "uzs": 0
+        }
+      ],
+      "totalUSD": 19795.081000000002,
+      "totalUZS": 0,
+      "debtorCount": 62
+    },
+    {
+      "name": "Bahodirjon",
+      "debtors": [
+        {
+          "name": "Dildora apa",
+          "usd": 0,
+          "uzs": 4393705
+        },
+        {
+          "name": "Ahmadjon ",
+          "usd": 26.02,
+          "uzs": 0
+        },
+        {
+          "name": "Muydin Aka Farg'ona",
+          "usd": 0,
+          "uzs": 43362
+        },
+        {
+          "name": "Ibroximjon 4840 (1-Dukon) ЧУСТ",
+          "usd": 0,
+          "uzs": 4254750
+        },
+        {
+          "name": "MUHAYYO OPA F Farg'ona",
+          "usd": 37.971,
+          "uzs": 0
+        },
+        {
+          "name": "Dilshod aka 2003",
+          "usd": 19.706,
+          "uzs": 0
+        },
+        {
+          "name": "nasimhon ",
+          "usd": 62.464,
+          "uzs": 0
+        },
+        {
+          "name": "Andijon klent ",
+          "usd": 10,
+          "uzs": 3276000
+        },
+        {
+          "name": "Rizoxon AkaFarg'ona",
+          "usd": 0,
+          "uzs": 1063200
+        },
+        {
+          "name": "DILMUROD AKA KIYIM Farg'ona",
+          "usd": 4.374,
+          "uzs": 0
+        },
+        {
+          "name": "Sayithon aka ",
+          "usd": 49.587,
+          "uzs": 0
+        },
+        {
+          "name": "Naqat",
+          "usd": 0,
+          "uzs": 2500128.72
+        },
+        {
+          "name": "Bobo Aka Farg'ona",
+          "usd": 0,
+          "uzs": 2593992
+        },
+        {
+          "name": "Mirshoxid aka cam",
+          "usd": 0,
+          "uzs": 2098533
+        },
+        {
+          "name": "Jaffar aka ",
+          "usd": 7.271,
+          "uzs": 0
+        },
+        {
+          "name": "Abror Aka Farg'ona",
+          "usd": 0,
+          "uzs": 11142108.84
+        },
+        {
+          "name": "Izzatulloh Aka Farg'ona",
+          "usd": 0,
+          "uzs": 635000
+        },
+        {
+          "name": "Hurshid aka apteka",
+          "usd": 2116.173,
+          "uzs": 0
+        },
+        {
+          "name": "MuxammadBobur aka farg'ona",
+          "usd": 246.821,
+          "uzs": 0
+        },
+        {
+          "name": "MUHAMMAD UMAR AKA 6677",
+          "usd": 540.35,
+          "uzs": 0
+        },
+        {
+          "name": "Bohodirjon",
+          "usd": 673.845,
+          "uzs": 2071951.09
+        },
+        {
+          "name": "Bonu apa 9609",
+          "usd": 0,
+          "uzs": 1363866
+        },
+        {
+          "name": "Iskandar aka Farg'ona",
+          "usd": 0,
+          "uzs": 1809470
+        },
+        {
+          "name": "Umid aka dehqon bozor",
+          "usd": 0,
+          "uzs": 271300
+        },
+        {
+          "name": "Maftuna opa Farg'ona",
+          "usd": 0,
+          "uzs": 318916
+        },
+        {
+          "name": "Muhammadjon aka 9336",
+          "usd": 5.763,
+          "uzs": 0
+        },
+        {
+          "name": "RUZMUHAMMADJON Farg'ona",
+          "usd": 963.767,
+          "uzs": 0
+        },
+        {
+          "name": "Qobil aka Farg'ona",
+          "usd": 0,
+          "uzs": 277308
+        },
+        {
+          "name": "Usmon Aka Farg'ona",
+          "usd": 3.66,
+          "uzs": 0
+        },
+        {
+          "name": "Murodjon Aka Farg'ona",
+          "usd": 48.309,
+          "uzs": 15123880
+        },
+        {
+          "name": "Rustamhon Farg'ona",
+          "usd": 24.765,
+          "uzs": 0
+        },
+        {
+          "name": "Akmal Aka Fergana",
+          "usd": 0,
+          "uzs": 370801.8
+        },
+        {
+          "name": "Jaxongir aka Farg'ona",
+          "usd": 0,
+          "uzs": 8232400
+        },
+        {
+          "name": "Ollohberdi Aka Farg'ona",
+          "usd": 139.149,
+          "uzs": 0
+        },
+        {
+          "name": "Baxtieraka 1888 ЧУСТ",
+          "usd": 0,
+          "uzs": 3976180
+        },
+        {
+          "name": "Nosirxon Aka Farg'ona",
+          "usd": 0,
+          "uzs": 28136775
+        }
+      ],
+      "totalUSD": 4979.995,
+      "totalUZS": 93953627.44999999,
+      "debtorCount": 36
+    },
+    {
+      "name": "Behruz",
+      "debtors": [
+        {
+          "name": "Mahdi ATX 115-dom",
+          "usd": 0,
+          "uzs": 773951
+        },
+        {
+          "name": "7saber astanofka Toshkent pitak",
+          "usd": 0,
+          "uzs": 200000
+        },
+        {
+          "name": "Xojibek guzar sleppy",
+          "usd": 0,
+          "uzs": 150000
+        },
+        {
+          "name": "shayxul islom market",
+          "usd": 0,
+          "uzs": 100000
+        },
+        {
+          "name": "Munisa market derezlik",
+          "usd": 0,
+          "uzs": 604200
+        },
+        {
+          "name": "Ishonch market dang'ara balnitsa yo'li",
+          "usd": 0,
+          "uzs": 200700
+        },
+        {
+          "name": "4-shifoxona yoni apteka",
+          "usd": 0,
+          "uzs": 840960
+        },
+        {
+          "name": "sleppy apteka sentr charxi",
+          "usd": 0,
+          "uzs": 976800
+        },
+        {
+          "name": "Tulqinjon ota",
+          "usd": 0,
+          "uzs": 249700
+        },
+        {
+          "name": "darxon market",
+          "usd": 0,
+          "uzs": 400
+        },
+        {
+          "name": "Abdulloh 77",
+          "usd": 0,
+          "uzs": 650000
+        },
+        {
+          "name": "dorixona raddom yoni",
+          "usd": 0,
+          "uzs": 3052249.4
+        },
+        {
+          "name": "dorixona 20-maktab orqasi",
+          "usd": 0,
+          "uzs": 1732915.49
+        },
+        {
+          "name": "savatcha market",
+          "usd": 0,
+          "uzs": 554300
+        },
+        {
+          "name": "Tojmahal market Nodirjon",
+          "usd": 0,
+          "uzs": 351900
+        },
+        {
+          "name": "Anor ayrilish",
+          "usd": 0,
+          "uzs": 542260
+        },
+        {
+          "name": "sayxun market",
+          "usd": 0,
+          "uzs": 601500
+        },
+        {
+          "name": "Elshod market roparasi",
+          "usd": 0,
+          "uzs": 584000
+        },
+        {
+          "name": "Zaytun ximik",
+          "usd": 0,
+          "uzs": 1175700
+        },
+        {
+          "name": "gumbazli dukon derezli",
+          "usd": 0,
+          "uzs": 500000
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 13841535.89,
+      "debtorCount": 20
+    },
+    {
+      "name": "M Yusuf",
+      "debtors": [
+        {
+          "name": "Динарахон",
+          "usd": 61.6,
+          "uzs": 0
+        },
+        {
+          "name": "Хапизхон ака м.с.м ",
+          "usd": 0,
+          "uzs": 2984
+        },
+        {
+          "name": "Мунавваржон ака махалла",
+          "usd": 0,
+          "uzs": 20276
+        },
+        {
+          "name": "Фаробий Зулфикор ",
+          "usd": 0,
+          "uzs": 1849760
+        },
+        {
+          "name": "Улугбек ака м.с.м дукон",
+          "usd": 0,
+          "uzs": 800684
+        },
+        {
+          "name": "Saidxon MSM",
+          "usd": 0,
+          "uzs": 712700
+        },
+        {
+          "name": "Хожи амаки м.с.м 28-дукон",
+          "usd": 0,
+          "uzs": 537150
+        },
+        {
+          "name": "Жохонгир ака Милениум 2/1",
+          "usd": 0,
+          "uzs": 60000
+        },
+        {
+          "name": "Sleppy Sardor Kontener",
+          "usd": 0,
+          "uzs": 2000000
+        },
+        {
+          "name": "Дилафуруз апа м.с.м 46-дукон",
+          "usd": 0,
+          "uzs": 4900000
+        },
+        {
+          "name": "Музаффар ака печени м.с.м",
+          "usd": 0,
+          "uzs": 2000000
+        },
+        {
+          "name": "Акмал ака би 2-дукон",
+          "usd": 0,
+          "uzs": 938155
+        },
+        {
+          "name": "Komilaxon opa 9/7 biy",
+          "usd": 0,
+          "uzs": 560260
+        },
+        {
+          "name": "Абдумалик ака 3/4",
+          "usd": 0,
+          "uzs": 185000
+        },
+        {
+          "name": "Абдулазизхон ака м.с.м 44-дукон",
+          "usd": 0,
+          "uzs": 908870
+        },
+        {
+          "name": "Мухтор ака 10/12",
+          "usd": 0,
+          "uzs": 1600000
+        },
+        {
+          "name": "Элдор ака 12/8",
+          "usd": 0,
+          "uzs": 250000
+        },
+        {
+          "name": "Контейнер Акмалхон",
+          "usd": 2.1,
+          "uzs": 0
+        },
+        {
+          "name": "Zulfiyaxon opa Mumtoz",
+          "usd": 0,
+          "uzs": 187547
+        },
+        {
+          "name": "Смайл кореан шоп Азизхон",
+          "usd": 0,
+          "uzs": 740000
+        },
+        {
+          "name": "Рузматова Иродахон ",
+          "usd": 37.185,
+          "uzs": 0
+        }
+      ],
+      "totalUSD": 100.885,
+      "totalUZS": 18253386,
+      "debtorCount": 21
+    },
+    {
+      "name": "Murod aka",
+      "debtors": [
+        {
+          "name": "Нишонова Мухлисахон ",
+          "usd": 900,
+          "uzs": 0
+        },
+        {
+          "name": "Угилой МСМ 109 Дукон ",
+          "usd": 178,
+          "uzs": 0
+        },
+        {
+          "name": "Умиджон",
+          "usd": 192.8,
+          "uzs": 0
+        },
+        {
+          "name": "Жамхон ",
+          "usd": 10.7,
+          "uzs": 0
+        },
+        {
+          "name": "Улугбек Яйпан",
+          "usd": 0,
+          "uzs": 1455000
+        },
+        {
+          "name": "Эгамберди бешарик",
+          "usd": 0,
+          "uzs": 700601
+        },
+        {
+          "name": "Яйпан Санжар",
+          "usd": 60,
+          "uzs": 0
+        },
+        {
+          "name": "Мумтоз Шарифа опа",
+          "usd": 1900,
+          "uzs": 0
+        },
+        {
+          "name": "Муслимахон мумтоз",
+          "usd": 607,
+          "uzs": 0
+        },
+        {
+          "name": "Смайл Мумтоз Муслимахон",
+          "usd": 440,
+          "uzs": 0
+        },
+        {
+          "name": "Смайл Ганишер",
+          "usd": 347.5,
+          "uzs": 0
+        },
+        {
+          "name": "Прима Иброхимжон",
+          "usd": 265,
+          "uzs": 0
+        },
+        {
+          "name": "Clappers Мумтоз Зулфияхон опа",
+          "usd": 132,
+          "uzs": 0
+        },
+        {
+          "name": "Смайл Махалла Маҳлиёхон",
+          "usd": 0,
+          "uzs": 460000
+        },
+        {
+          "name": "Смайл Мухайёхон",
+          "usd": 0,
+          "uzs": 214100
+        },
+        {
+          "name": "Смайл Муродхон",
+          "usd": 0,
+          "uzs": 4439000
+        },
+        {
+          "name": "Ботир ака кареан шоп",
+          "usd": 102,
+          "uzs": 0
+        },
+        {
+          "name": "Прима БИЙ Икболжон",
+          "usd": 100,
+          "uzs": 0
+        },
+        {
+          "name": "Clappers БИЙ Зиёдахон",
+          "usd": 270,
+          "uzs": 0
+        },
+        {
+          "name": "БИЙ Хусниддин",
+          "usd": 116.65,
+          "uzs": 0
+        },
+        {
+          "name": "Маҳалла Юлдузхон",
+          "usd": 78,
+          "uzs": 0
+        },
+        {
+          "name": "Smile baby Муродхон",
+          "usd": 0,
+          "uzs": 482000
+        },
+        {
+          "name": "Прима Муродхон",
+          "usd": 407,
+          "uzs": 0
+        },
+        {
+          "name": "Контейнер Исломжон",
+          "usd": 80,
+          "uzs": 0
+        },
+        {
+          "name": "Preline Кулдашев Азизхон",
+          "usd": 90,
+          "uzs": 0
+        },
+        {
+          "name": "Смайл Контейнер Исломбек",
+          "usd": 0,
+          "uzs": 300000
+        }
+      ],
+      "totalUSD": 6276.65,
+      "totalUZS": 8050701,
+      "debtorCount": 26
+    },
+    {
+      "name": "Muxayyo",
+      "debtors": [
+        {
+          "name": "Pepsi Muborak yoni",
+          "usd": 0,
+          "uzs": 727340
+        },
+        {
+          "name": "ipak yuli turkiston kucha",
+          "usd": 0,
+          "uzs": 200157
+        },
+        {
+          "name": "ximik astanovka",
+          "usd": 0,
+          "uzs": 254150
+        },
+        {
+          "name": "Dilnozaxon xola dang'ara",
+          "usd": 0,
+          "uzs": 147898
+        },
+        {
+          "name": "asl market ",
+          "usd": 0,
+          "uzs": 255719
+        },
+        {
+          "name": "Xon market",
+          "usd": 0,
+          "uzs": 213265
+        },
+        {
+          "name": "Kavsar market",
+          "usd": 0,
+          "uzs": 548
+        },
+        {
+          "name": "AlFajr",
+          "usd": 0,
+          "uzs": 1762247
+        },
+        {
+          "name": "Tabiat Malhamlari",
+          "usd": 0,
+          "uzs": 423000
+        },
+        {
+          "name": "Bek market 40-let",
+          "usd": 0,
+          "uzs": 336
+        },
+        {
+          "name": "Zaytun Ekstrenniy ",
+          "usd": 0,
+          "uzs": 1301536
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 5286196,
+      "debtorCount": 11
+    },
+    {
+      "name": "Muxtor aka",
+      "debtors": [
+        {
+          "name": "Onlem Muslimaxon",
+          "usd": 470,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Abduvoris farobiy",
+          "usd": 60.4,
+          "uzs": 2550000
+        },
+        {
+          "name": " Akmalxon 23/1",
+          "usd": 647.37,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem axror dermoped",
+          "usd": 150,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Doston o'rtaqo'rg'on",
+          "usd": 90.09,
+          "uzs": 300000
+        },
+        {
+          "name": "Onlem Nurislom",
+          "usd": 53.18,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Umidjon ",
+          "usd": 651.08,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Xurshidjon ",
+          "usd": 461.6,
+          "uzs": 0
+        },
+        {
+          "name": "Islom 18/9",
+          "usd": 18.72,
+          "uzs": 0
+        },
+        {
+          "name": "Snikres Yaypan 2",
+          "usd": 603.929,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Egambrdi Beshariq ",
+          "usd": 64.25,
+          "uzs": 0
+        },
+        {
+          "name": "sleppy 94 Ilyos aka",
+          "usd": 0,
+          "uzs": 1130800
+        },
+        {
+          "name": "Xo'ja market Yaypan 06-00",
+          "usd": 0,
+          "uzs": 2478000
+        },
+        {
+          "name": "Ulug'bek Yaypan ",
+          "usd": 799.08,
+          "uzs": 3348000
+        },
+        {
+          "name": "Onlem Zulfiya opa ",
+          "usd": 40,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Bexruz stoyanka",
+          "usd": 375.857,
+          "uzs": 0
+        },
+        {
+          "name": "oila",
+          "usd": 0,
+          "uzs": 1000000
+        },
+        {
+          "name": "Karimbek ota 777",
+          "usd": 0,
+          "uzs": 1276000
+        },
+        {
+          "name": "Onlem Sarvar farm 2 filial Rishton ",
+          "usd": 154.2,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Sharifa xola ",
+          "usd": 139,
+          "uzs": 0
+        },
+        {
+          "name": "Moida market bolshevik",
+          "usd": 0,
+          "uzs": 236000
+        },
+        {
+          "name": "Onlem Salohiddin 20/2",
+          "usd": 453.57,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem A5 farm",
+          "usd": 0,
+          "uzs": 2972000
+        },
+        {
+          "name": "Onlem Kenjaxon opa",
+          "usd": 479.91,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem O'g'iloy opa",
+          "usd": 638.15,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Ziyoda opa ",
+          "usd": 50,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Orif farobiy ",
+          "usd": 12,
+          "uzs": 0
+        },
+        {
+          "name": "Xamid aka yangiqo'rg'on ",
+          "usd": 41.346,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Nurmuhammad Lalaku ",
+          "usd": 2580,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Ilhomjon 4/14",
+          "usd": 259.8,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Yulduz xon maxalla",
+          "usd": 329.5,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Anor farm Rishton ",
+          "usd": 0,
+          "uzs": 5500525
+        },
+        {
+          "name": "Shahnozaxon mumtoz ",
+          "usd": 100,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Sodirjon mumtoz",
+          "usd": 200,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem O'rinboy ota apteka Rishton ",
+          "usd": 0,
+          "uzs": 20045820
+        },
+        {
+          "name": "Onlem Xusniddin",
+          "usd": 0,
+          "uzs": 4664800
+        },
+        {
+          "name": "Onlem Iqbol choy",
+          "usd": 1697,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Gilet ",
+          "usd": 87,
+          "uzs": 0
+        },
+        {
+          "name": "Sherxon Yaypan",
+          "usd": 4940,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Axror 22",
+          "usd": 170,
+          "uzs": 0
+        },
+        {
+          "name": "Maxfuza opa mumtoz ",
+          "usd": 40,
+          "uzs": 0
+        }
+      ],
+      "totalUSD": 16857.032,
+      "totalUZS": 45501945,
+      "debtorCount": 41
+    },
+    {
+      "name": "Shuhrat aka Agent",
+      "debtors": [
+        {
+          "name": "Avrora market Noib kuprigi",
+          "usd": 0,
+          "uzs": 129800
+        },
+        {
+          "name": "Sardor market Dangara",
+          "usd": 0,
+          "uzs": 1070400
+        },
+        {
+          "name": "Koppon 579",
+          "usd": 0,
+          "uzs": 325000
+        },
+        {
+          "name": "Akhmadaliyev's kafe",
+          "usd": 0,
+          "uzs": 672657
+        },
+        {
+          "name": "Maxmudjon Igamberdiev",
+          "usd": 0,
+          "uzs": 1031919.38
+        },
+        {
+          "name": "Zubayir market ",
+          "usd": 0,
+          "uzs": 2894391
+        },
+        {
+          "name": "Globus.",
+          "usd": 0,
+          "uzs": 2340000
+        },
+        {
+          "name": "Eliktroni magazin",
+          "usd": 0,
+          "uzs": 1621289
+        },
+        {
+          "name": "ECO market Saloxiddin ota",
+          "usd": 0,
+          "uzs": 155000
+        },
+        {
+          "name": "Koppon 1 dukon",
+          "usd": 0,
+          "uzs": 3360000
+        },
+        {
+          "name": "Musoxon Market Achchiqkul",
+          "usd": 0,
+          "uzs": 720000
+        },
+        {
+          "name": "Avgonbog stansiya ichi market",
+          "usd": 0,
+          "uzs": 3694000
+        },
+        {
+          "name": "koppon 1 Qaxramon aka",
+          "usd": 0,
+          "uzs": 2528000
+        },
+        {
+          "name": "Донйорбек",
+          "usd": 0,
+          "uzs": 6000
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 20548456.38,
+      "debtorCount": 14
+    },
+    {
+      "name": "Shuhrat aka Rayon",
+      "debtors": [
+        {
+          "name": "asl baraka ",
+          "usd": 0,
+          "uzs": 869205
+        },
+        {
+          "name": "kappon",
+          "usd": 0,
+          "uzs": 720256
+        },
+        {
+          "name": "nur markettt",
+          "usd": 0,
+          "uzs": 629937
+        },
+        {
+          "name": "777 market ..",
+          "usd": 0,
+          "uzs": 600000
+        },
+        {
+          "name": "ахмаджон ",
+          "usd": 0,
+          "uzs": 310655.6
+        },
+        {
+          "name": "Donyorjon",
+          "usd": 0,
+          "uzs": 944522.16
+        },
+        {
+          "name": "Ayfon",
+          "usd": 0,
+          "uzs": 149914.5
+        },
+        {
+          "name": "Mohidilhon",
+          "usd": 0,
+          "uzs": 181870
+        },
+        {
+          "name": "Koppon",
+          "usd": 0,
+          "uzs": 1454192
+        },
+        {
+          "name": "Zubayir ",
+          "usd": 0,
+          "uzs": 135448
+        },
+        {
+          "name": "Orzigulapa",
+          "usd": 0,
+          "uzs": 822278
+        },
+        {
+          "name": "Nigoraxon",
+          "usd": 0,
+          "uzs": 570848
+        },
+        {
+          "name": "Абдуллох",
+          "usd": 0,
+          "uzs": 383319
+        },
+        {
+          "name": "Konizar",
+          "usd": 0,
+          "uzs": 1557945
+        },
+        {
+          "name": "Karvon Chodak",
+          "usd": 0,
+          "uzs": 400225
+        },
+        {
+          "name": "Doniyorbek Qushqanoq",
+          "usd": 0,
+          "uzs": 2150000
+        },
+        {
+          "name": "Dukoncha Kalvek 17",
+          "usd": 0,
+          "uzs": 350000
+        },
+        {
+          "name": "Nasiya savdo",
+          "usd": 0,
+          "uzs": 419231.3
+        },
+        {
+          "name": "Benom Sanam qishloq",
+          "usd": 0,
+          "uzs": 930345
+        },
+        {
+          "name": "Ziyo market .",
+          "usd": 0,
+          "uzs": 767147
+        },
+        {
+          "name": "Optom pamper",
+          "usd": 0,
+          "uzs": 2841378
+        },
+        {
+          "name": "Gulmiraxon",
+          "usd": 0,
+          "uzs": 108475
+        },
+        {
+          "name": "Gulmirahon",
+          "usd": 0,
+          "uzs": 3080855
+        },
+        {
+          "name": "Bolalar dunyosi",
+          "usd": 0,
+          "uzs": 41258
+        },
+        {
+          "name": "Dilshunos",
+          "usd": 0,
+          "uzs": 4008904
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 24428208.560000002,
+      "debtorCount": 25
+    },
+    {
+      "name": "Sleepy Bozor 2",
+      "debtors": [
+        {
+          "name": "Ziroat opa",
+          "usd": 30,
+          "uzs": 0
+        },
+        {
+          "name": "Sleppy Umidjon",
+          "usd": 123.22,
+          "uzs": 0
+        },
+        {
+          "name": "Sleppy Muslimaxon Mumtoz",
+          "usd": 169.005,
+          "uzs": 0
+        },
+        {
+          "name": "Sleppy Akramxo'ja",
+          "usd": 1532.64,
+          "uzs": 0
+        },
+        {
+          "name": "Xurshid Xaromxo'r",
+          "usd": 1413.02,
+          "uzs": 0
+        },
+        {
+          "name": "Akmalxon aka Kontener ",
+          "usd": 0,
+          "uzs": 800000
+        },
+        {
+          "name": "SLEPPY Murodjon M.S.M 3 block ",
+          "usd": 0,
+          "uzs": 1575000
+        },
+        {
+          "name": "Maxmudjon Aka Kontener ",
+          "usd": 0,
+          "uzs": 2250000
+        },
+        {
+          "name": "Sleppy Novza market",
+          "usd": 0,
+          "uzs": 509220
+        },
+        {
+          "name": "Ilxomjon mumtoz",
+          "usd": 199.981,
+          "uzs": 0
+        },
+        {
+          "name": "Sleppy Maxliyoxon maxalla",
+          "usd": 0,
+          "uzs": 987960
+        },
+        {
+          "name": "Murod aka agent",
+          "usd": 0,
+          "uzs": 485600
+        },
+        {
+          "name": "G'anisher yangi avtovakzal",
+          "usd": 0,
+          "uzs": 1681999.98
+        },
+        {
+          "name": "Rustam aka 158 Msm",
+          "usd": 0,
+          "uzs": 300000
+        },
+        {
+          "name": "Sleppy Orif aka",
+          "usd": 0,
+          "uzs": 2250000
+        },
+        {
+          "name": "Isroiljon  Andijon stoyanka ",
+          "usd": 0,
+          "uzs": 3000000
+        },
+        {
+          "name": "Ibroxim aka  Biy",
+          "usd": 0,
+          "uzs": 3000000
+        },
+        {
+          "name": "sleppy Axror aka maxalla",
+          "usd": 0,
+          "uzs": 2392000
+        },
+        {
+          "name": "SLEPPY Kamoliddin B.I.Y.",
+          "usd": 0,
+          "uzs": 675000
+        },
+        {
+          "name": "O'ktam aka maxalla MSM",
+          "usd": 0,
+          "uzs": 2250000
+        },
+        {
+          "name": "Mamlakat opa konteyner ",
+          "usd": 0,
+          "uzs": 1000000
+        },
+        {
+          "name": "B.I.Y. 9/1 Xojiakbar ",
+          "usd": 0,
+          "uzs": 907200
+        },
+        {
+          "name": "Furqat maxalla msm",
+          "usd": 0,
+          "uzs": 2591102.95
+        },
+        {
+          "name": "Zulfiyaxon opa Mumtoz",
+          "usd": 0,
+          "uzs": 1350000
+        },
+        {
+          "name": "Nozima farm",
+          "usd": 0,
+          "uzs": 1442000
+        },
+        {
+          "name": "Mansur aka Mahalla",
+          "usd": 0,
+          "uzs": 1830000
+        },
+        {
+          "name": "Sleppy Oybek",
+          "usd": 0,
+          "uzs": 1826400
+        },
+        {
+          "name": "Sleppy Jamila xola",
+          "usd": 84.8,
+          "uzs": 0
+        },
+        {
+          "name": "sleppy Valijon aka 126",
+          "usd": 0,
+          "uzs": 925000
+        },
+        {
+          "name": "Shahnozaxon mumtoz ",
+          "usd": 0,
+          "uzs": 1450000
+        },
+        {
+          "name": "Kamolov Nurmuxammad BIY 1/18",
+          "usd": 0,
+          "uzs": 1396000
+        },
+        {
+          "name": "Iroda opa biy",
+          "usd": 0,
+          "uzs": 2325600
+        },
+        {
+          "name": "sleppy myaso dom maxalla",
+          "usd": 0,
+          "uzs": 500000
+        },
+        {
+          "name": "Shavkat aka 19/1",
+          "usd": 0,
+          "uzs": 1686000
+        },
+        {
+          "name": "Xusniddin aka Olmosxon opa 13/8",
+          "usd": 0,
+          "uzs": 5966446.964
+        },
+        {
+          "name": "Xolbek mahalla",
+          "usd": 0,
+          "uzs": 450000
+        },
+        {
+          "name": "Maxfuza opa mumtoz ",
+          "usd": 0,
+          "uzs": 475000
+        },
+        {
+          "name": "Arzon Savdo farobiy",
+          "usd": 0,
+          "uzs": 3150000
+        }
+      ],
+      "totalUSD": 3552.666,
+      "totalUZS": 51427529.894,
+      "debtorCount": 38
+    },
+    {
+      "name": "Veronika",
+      "debtors": [
+        {
+          "name": "фоод маркет",
+          "usd": 0,
+          "uzs": 890107
+        },
+        {
+          "name": "lazziyo market",
+          "usd": 0,
+          "uzs": 1732620
+        },
+        {
+          "name": "Гилам ювиш кашер",
+          "usd": 0,
+          "uzs": 18468
+        },
+        {
+          "name": "Шох",
+          "usd": 0,
+          "uzs": 2446942
+        },
+        {
+          "name": "Мухамад",
+          "usd": 0,
+          "uzs": 6578474
+        },
+        {
+          "name": "Zaytun ximik",
+          "usd": 0,
+          "uzs": 239706
+        },
+        {
+          "name": "Fayz market",
+          "usd": 0,
+          "uzs": 600651
+        },
+        {
+          "name": "Apteka Center ",
+          "usd": 0,
+          "uzs": 800
+        },
+        {
+          "name": "Аюбхон маркет",
+          "usd": 0,
+          "uzs": 273245
+        },
+        {
+          "name": "Холбек маркет",
+          "usd": 0,
+          "uzs": 964112
+        },
+        {
+          "name": "Мубина",
+          "usd": 0,
+          "uzs": 786588
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 14531713,
+      "debtorCount": 11
+    },
+    {
+      "name": "Zuxra",
+      "debtors": [
+        {
+          "name": "navbaxor market ",
+          "usd": 0,
+          "uzs": 1341332.6
+        },
+        {
+          "name": "Mir Market Yangi chorsu",
+          "usd": 0,
+          "uzs": 1359787.6
+        },
+        {
+          "name": "Chorsu market",
+          "usd": 0,
+          "uzs": 47847
+        },
+        {
+          "name": "Mm yarmarka",
+          "usd": 0,
+          "uzs": 10904
+        },
+        {
+          "name": "Archazor Osh",
+          "usd": 0,
+          "uzs": 408000
+        },
+        {
+          "name": "Quqonboy davlataka",
+          "usd": 0,
+          "uzs": 972330
+        },
+        {
+          "name": "Gilette Market",
+          "usd": 0,
+          "uzs": 289010.94
+        },
+        {
+          "name": "Abdullox 77 baqachorsu",
+          "usd": 0,
+          "uzs": 980
+        },
+        {
+          "name": "21 deuk kopon dilafruzapa",
+          "usd": 0,
+          "uzs": 310599
+        },
+        {
+          "name": "Xojibek guzar",
+          "usd": 0,
+          "uzs": 269768
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 5010559.140000001,
+      "debtorCount": 10
+    }
+  ],
+  "lastUpdated": "2026-02-03T14:00:11.756Z",
+  "previousData": [
+    {
+      "name": "Abdulaziz Maxmudov",
+      "debtors": [
+        {
+          "name": "1",
+          "usd": 923,
+          "uzs": 130
+        },
+        {
+          "name": "2",
+          "usd": 902,
+          "uzs": 15.191
+        },
+        {
+          "name": "3",
+          "usd": 839,
+          "uzs": 1.041
+        },
+        {
+          "name": "4",
+          "usd": 782,
+          "uzs": 54
+        },
+        {
+          "name": "5",
+          "usd": 702,
+          "uzs": 20.083
+        },
+        {
+          "name": "6",
+          "usd": 699,
+          "uzs": 9.671
+        },
+        {
+          "name": "7",
+          "usd": 653,
+          "uzs": 3.719
+        },
+        {
+          "name": "8",
+          "usd": 574,
+          "uzs": 5.641
+        },
+        {
+          "name": "9",
+          "usd": 520,
+          "uzs": 6.918
+        },
+        {
+          "name": "10",
+          "usd": 451,
+          "uzs": 368.493
+        },
+        {
+          "name": "11",
+          "usd": 422,
+          "uzs": 71.246
+        },
+        {
+          "name": "12",
+          "usd": 409,
+          "uzs": 77.73
+        },
+        {
+          "name": "13",
+          "usd": 388.5723263888867,
+          "uzs": 82.832
+        },
+        {
+          "name": "14",
+          "usd": 376.511863425927,
+          "uzs": 12.8
+        },
+        {
+          "name": "15",
+          "usd": 365,
+          "uzs": 10.041
+        },
+        {
+          "name": "16",
+          "usd": 365,
+          "uzs": 2410.126
+        },
+        {
+          "name": "17",
+          "usd": 365,
+          "uzs": 12.4
+        },
+        {
+          "name": "18",
+          "usd": 365,
+          "uzs": 2.074
+        },
+        {
+          "name": "19",
+          "usd": 365,
+          "uzs": 0
+        },
+        {
+          "name": "20",
+          "usd": 365,
+          "uzs": 130.45
+        },
+        {
+          "name": "21",
+          "usd": 365,
+          "uzs": 314.728
+        },
+        {
+          "name": "22",
+          "usd": 365,
+          "uzs": 1780.871
+        },
+        {
+          "name": "23",
+          "usd": 365,
+          "uzs": 2934.199
+        },
+        {
+          "name": "24",
+          "usd": 362.5448611111133,
+          "uzs": 85.649
+        },
+        {
+          "name": "25",
+          "usd": 315.5623842592613,
+          "uzs": 46.42
+        },
+        {
+          "name": "26",
+          "usd": 293.2670486111092,
+          "uzs": 234.271
+        },
+        {
+          "name": "27",
+          "usd": 287.3559143518505,
+          "uzs": 35.896
+        },
+        {
+          "name": "28",
+          "usd": 278.5621874999997,
+          "uzs": 23.94
+        },
+        {
+          "name": "29",
+          "usd": 269.5342708333337,
+          "uzs": 0
+        },
+        {
+          "name": "30",
+          "usd": 261.5058564814826,
+          "uzs": 318.165
+        },
+        {
+          "name": "31",
+          "usd": 261.21704861111357,
+          "uzs": 34.219
+        },
+        {
+          "name": "32",
+          "usd": 254.07916666667006,
+          "uzs": 9.021
+        },
+        {
+          "name": "33",
+          "usd": 244.49798611111328,
+          "uzs": 17
+        },
+        {
+          "name": "34",
+          "usd": 232.47334490740468,
+          "uzs": 0.041
+        },
+        {
+          "name": "35",
+          "usd": 231.3933680555565,
+          "uzs": 0
+        },
+        {
+          "name": "36",
+          "usd": 180.49211805555387,
+          "uzs": 173.819
+        },
+        {
+          "name": "37",
+          "usd": 166.49715277777432,
+          "uzs": 0
+        },
+        {
+          "name": "38",
+          "usd": 150.53944444444642,
+          "uzs": 96
+        },
+        {
+          "name": "39",
+          "usd": 145.45793981481256,
+          "uzs": 280.181
+        },
+        {
+          "name": "40",
+          "usd": 145.45347222222335,
+          "uzs": 60.624
+        },
+        {
+          "name": "41",
+          "usd": 138.4052314814835,
+          "uzs": 16.002
+        },
+        {
+          "name": "42",
+          "usd": 138.3728703703673,
+          "uzs": 37.288
+        },
+        {
+          "name": "43",
+          "usd": 131.5919212962981,
+          "uzs": 2703.249
+        },
+        {
+          "name": "44",
+          "usd": 120.40415509259037,
+          "uzs": 41.201
+        },
+        {
+          "name": "45",
+          "usd": 118.45538194444089,
+          "uzs": 34.391
+        },
+        {
+          "name": "46",
+          "usd": 106.48310185185255,
+          "uzs": 421.509
+        },
+        {
+          "name": "47",
+          "usd": 106.47592592592264,
+          "uzs": 166.369
+        },
+        {
+          "name": "48",
+          "usd": 104.4742245370362,
+          "uzs": 0.005
+        },
+        {
+          "name": "49",
+          "usd": 99.5192708333343,
+          "uzs": 69.138
+        },
+        {
+          "name": "50",
+          "usd": 99.48809027778043,
+          "uzs": 141.469
+        },
+        {
+          "name": "51",
+          "usd": 97.50690972222219,
+          "uzs": 7.548
+        },
+        {
+          "name": "52",
+          "usd": 93.4556712962949,
+          "uzs": 76.547
+        },
+        {
+          "name": "53",
+          "usd": 82.56100694444467,
+          "uzs": 347.891
+        },
+        {
+          "name": "54",
+          "usd": 79.55126157407358,
+          "uzs": 4393.807
+        },
+        {
+          "name": "55",
+          "usd": 79.26689814814745,
+          "uzs": 24.069
+        },
+        {
+          "name": "56",
+          "usd": 78.58024305555591,
+          "uzs": 37.851
+        },
+        {
+          "name": "57",
+          "usd": 77.41379629629955,
+          "uzs": 203.829
+        },
+        {
+          "name": "58",
+          "usd": 76.4873263888876,
+          "uzs": 66.49
+        },
+        {
+          "name": "59",
+          "usd": 75.5268865740727,
+          "uzs": 1561.724
+        },
+        {
+          "name": "60",
+          "usd": 72.59677083333372,
+          "uzs": 16.888
+        },
+        {
+          "name": "61",
+          "usd": 71.49840277777548,
+          "uzs": 62.35
+        },
+        {
+          "name": "62",
+          "usd": 71.46108796296176,
+          "uzs": 3.357
+        },
+        {
+          "name": "63",
+          "usd": 69.55207175925898,
+          "uzs": 1.278
+        },
+        {
+          "name": "64",
+          "usd": 69.5430208333346,
+          "uzs": 833.096
+        },
+        {
+          "name": "65",
+          "usd": 69.49956018518424,
+          "uzs": 7.31
+        },
+        {
+          "name": "66",
+          "usd": 69.41937499999767,
+          "uzs": 25.942
+        },
+        {
+          "name": "67",
+          "usd": 65.47982638888789,
+          "uzs": 482.6
+        },
+        {
+          "name": "68",
+          "usd": 65.45421296296263,
+          "uzs": 5.676
+        },
+        {
+          "name": "69",
+          "usd": 64.53709490740584,
+          "uzs": 58.042
+        },
+        {
+          "name": "70",
+          "usd": 64.53335648147913,
+          "uzs": 17.719
+        },
+        {
+          "name": "71",
+          "usd": 62.507337962961174,
+          "uzs": 12.355
+        },
+        {
+          "name": "72",
+          "usd": 62.50560185185168,
+          "uzs": 34.115
+        },
+        {
+          "name": "73",
+          "usd": 59.38555555555649,
+          "uzs": 0
+        },
+        {
+          "name": "74",
+          "usd": 58.63155092592933,
+          "uzs": 3.411
+        },
+        {
+          "name": "75",
+          "usd": 58.580995370371966,
+          "uzs": 3125.071
+        },
+        {
+          "name": "76",
+          "usd": 58.573460648149194,
+          "uzs": 35.425
+        },
+        {
+          "name": "77",
+          "usd": 58.56881944444467,
+          "uzs": 0
+        },
+        {
+          "name": "78",
+          "usd": 58.477708333331975,
+          "uzs": 573.198
+        },
+        {
+          "name": "79",
+          "usd": 55.46796296296088,
+          "uzs": 986.825
+        },
+        {
+          "name": "80",
+          "usd": 51.60976851851592,
+          "uzs": 771.027
+        },
+        {
+          "name": "81",
+          "usd": 51.58210648148088,
+          "uzs": 2104.954
+        },
+        {
+          "name": "82",
+          "usd": 51.568344907405844,
+          "uzs": 100
+        },
+        {
+          "name": "83",
+          "usd": 37.5561111111092,
+          "uzs": 424.762
+        },
+        {
+          "name": "84",
+          "usd": 37.252638888887304,
+          "uzs": 103.095
+        },
+        {
+          "name": "85",
+          "usd": 36.55849537037284,
+          "uzs": 0.085
+        },
+        {
+          "name": "86",
+          "usd": 36.55739583333343,
+          "uzs": 15.213
+        },
+        {
+          "name": "87",
+          "usd": 34.60335648147884,
+          "uzs": 18.974
+        },
+        {
+          "name": "88",
+          "usd": 34.386354166665114,
+          "uzs": 139.41
+        },
+        {
+          "name": "89",
+          "usd": 34.383472222223645,
+          "uzs": 0
+        },
+        {
+          "name": "90",
+          "usd": 34.30119212962745,
+          "uzs": 0
+        },
+        {
+          "name": "91",
+          "usd": 34.05868055555766,
+          "uzs": 0
+        },
+        {
+          "name": "92",
+          "usd": 32.2065625000032,
+          "uzs": 1.268
+        },
+        {
+          "name": "93",
+          "usd": 31.607824074075324,
+          "uzs": 46.362
+        },
+        {
+          "name": "94",
+          "usd": 28.58386574074393,
+          "uzs": 0
+        },
+        {
+          "name": "95",
+          "usd": 28.573877314811398,
+          "uzs": 0.003
+        },
+        {
+          "name": "96",
+          "usd": 28.566400462965248,
+          "uzs": 124.138
+        },
+        {
+          "name": "97",
+          "usd": 27.514432870368182,
+          "uzs": 184.069
+        }
+      ],
+      "totalUSD": 19848.282581018502,
+      "totalUZS": 30537.894999999997,
+      "debtorCount": 97
+    },
+    {
+      "name": "Abdulazizhon",
+      "debtors": [
+        {
+          "name": "1",
+          "usd": 459,
+          "uzs": 277.974
+        },
+        {
+          "name": "2",
+          "usd": 365,
+          "uzs": 148.675
+        },
+        {
+          "name": "3",
+          "usd": 365,
+          "uzs": 25
+        },
+        {
+          "name": "4",
+          "usd": 310.49527777777985,
+          "uzs": 0
+        },
+        {
+          "name": "5",
+          "usd": 308.52137731481344,
+          "uzs": 0
+        },
+        {
+          "name": "6",
+          "usd": 199.51496527777635,
+          "uzs": 2.294
+        },
+        {
+          "name": "7",
+          "usd": 183.58711805555504,
+          "uzs": 319.821
+        },
+        {
+          "name": "8",
+          "usd": 139.5446527777749,
+          "uzs": 838.144
+        },
+        {
+          "name": "9",
+          "usd": 107,
+          "uzs": 365.184
+        },
+        {
+          "name": "10",
+          "usd": 101.49284722222365,
+          "uzs": 375.194
+        },
+        {
+          "name": "11",
+          "usd": 59,
+          "uzs": 174
+        },
+        {
+          "name": "12",
+          "usd": 55.445150462961465,
+          "uzs": 1304.861
+        },
+        {
+          "name": "13",
+          "usd": 50.66269675926014,
+          "uzs": 1339.225
+        },
+        {
+          "name": "14",
+          "usd": 47.62091435184993,
+          "uzs": 234.869
+        },
+        {
+          "name": "15",
+          "usd": 47.41116898148175,
+          "uzs": 5846.03
+        },
+        {
+          "name": "16",
+          "usd": 37.39569444444351,
+          "uzs": 39.316
+        },
+        {
+          "name": "17",
+          "usd": 36.34505787037051,
+          "uzs": 59.627
+        },
+        {
+          "name": "18",
+          "usd": 35,
+          "uzs": 1875.851
+        },
+        {
+          "name": "19",
+          "usd": 34.62468749999971,
+          "uzs": 899.995
+        },
+        {
+          "name": "20",
+          "usd": 34.32353009259532,
+          "uzs": 316.235
+        },
+        {
+          "name": "21",
+          "usd": 34.262083333334886,
+          "uzs": 640.126
+        },
+        {
+          "name": "22",
+          "usd": 34,
+          "uzs": 383.085
+        },
+        {
+          "name": "23",
+          "usd": 31.987233796295186,
+          "uzs": 3218.628
+        },
+        {
+          "name": "24",
+          "usd": 31,
+          "uzs": 26.916
+        }
+      ],
+      "totalUSD": 3108.2344560185156,
+      "totalUZS": 18711.050000000003,
+      "debtorCount": 24
+    },
+    {
+      "name": "Abdulhafiz",
+      "debtors": [
+        {
+          "name": "1",
+          "usd": 131.36062500000116,
+          "uzs": 0
+        },
+        {
+          "name": "2",
+          "usd": 110.47730324073927,
+          "uzs": 0
+        },
+        {
+          "name": "3",
+          "usd": 108,
+          "uzs": 0
+        },
+        {
+          "name": "4",
+          "usd": 87.44662037037051,
+          "uzs": 0
+        },
+        {
+          "name": "5",
+          "usd": 86.55278935185197,
+          "uzs": 0
+        },
+        {
+          "name": "6",
+          "usd": 81.45938657407532,
+          "uzs": 0
+        },
+        {
+          "name": "7",
+          "usd": 78,
+          "uzs": 0
+        },
+        {
+          "name": "8",
+          "usd": 58.490231481482624,
+          "uzs": 0
+        },
+        {
+          "name": "9",
+          "usd": 51.20162037036789,
+          "uzs": 0
+        },
+        {
+          "name": "10",
+          "usd": 43,
+          "uzs": 0
+        },
+        {
+          "name": "11",
+          "usd": 38.35990740740817,
+          "uzs": 0
+        }
+      ],
+      "totalUSD": 874.3484837962969,
+      "totalUZS": 0,
+      "debtorCount": 11
+    },
+    {
+      "name": "Aligarh",
+      "debtors": [
+        {
+          "name": "Axadjon Svaboda",
+          "usd": 84.456,
+          "uzs": 0
+        },
+        {
+          "name": "Aziz aka  kantiner",
+          "usd": 199.508,
+          "uzs": 0
+        },
+        {
+          "name": "Aligarx Doctor&Fresh",
+          "usd": 206.35,
+          "uzs": 0
+        },
+        {
+          "name": "88-Do`kon Doctor-F",
+          "usd": 11.948,
+          "uzs": 0
+        },
+        {
+          "name": "17-Do`kon Doctor-F",
+          "usd": 165,
+          "uzs": 0
+        },
+        {
+          "name": "Ibroxim Aka Kontener Doctor-F",
+          "usd": 147.214,
+          "uzs": 0
+        },
+        {
+          "name": "Islom Aka Kontener Doctor-F",
+          "usd": 74,
+          "uzs": 0
+        },
+        {
+          "name": "Azizxon Aka Kontener Doctor-F",
+          "usd": 30.9,
+          "uzs": 0
+        },
+        {
+          "name": "Akmalxon Aka Kontener Doctor-F",
+          "usd": 28.765,
+          "uzs": 0
+        },
+        {
+          "name": "21/11 Do`kon Doctor-F",
+          "usd": 59.941,
+          "uzs": 0
+        },
+        {
+          "name": "Dili Aka Tashqari Doctor-F",
+          "usd": 86.967,
+          "uzs": 0
+        },
+        {
+          "name": "Muslimbek Aka",
+          "usd": 895.1,
+          "uzs": 0
+        },
+        {
+          "name": "173-Do`kon Doctor-F",
+          "usd": 37.781,
+          "uzs": 0
+        },
+        {
+          "name": "Yulduzxon Apa Tashqari  Doctor-F",
+          "usd": 23.634,
+          "uzs": 0
+        },
+        {
+          "name": "14/12 Marxaboxon apa",
+          "usd": 53.453,
+          "uzs": 0
+        },
+        {
+          "name": "Mahalla Mirolim aka Salohidin",
+          "usd": 333,
+          "uzs": 0
+        },
+        {
+          "name": "Rustam Konteyner",
+          "usd": 113.018,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem dukon Erkin aka",
+          "usd": 0.55,
+          "uzs": 0
+        },
+        {
+          "name": "83dukon Laylo opa",
+          "usd": 44.109,
+          "uzs": 0
+        },
+        {
+          "name": "Alisher Akani Ogli Meva bozor",
+          "usd": 23.942,
+          "uzs": 0
+        },
+        {
+          "name": "Saloxiddin Mahalla ",
+          "usd": 28.417,
+          "uzs": 0
+        },
+        {
+          "name": "158-Do'kon Dilnozaxon Apa ",
+          "usd": 132.707,
+          "uzs": 0
+        },
+        {
+          "name": "Shoira opa Farobiy",
+          "usd": 700.158,
+          "uzs": 0
+        },
+        {
+          "name": "Akmal aka  kantiner",
+          "usd": 1351.657,
+          "uzs": 0
+        },
+        {
+          "name": "Mahmudjon aka Kontener",
+          "usd": 490.03,
+          "uzs": 0
+        },
+        {
+          "name": "Feruzaxon apa Tunel",
+          "usd": 72.435,
+          "uzs": 0
+        },
+        {
+          "name": "MAJID TOGA FAROBIY",
+          "usd": 0.001,
+          "uzs": 0
+        },
+        {
+          "name": "AXROR AKA ",
+          "usd": 2675.168,
+          "uzs": 0
+        },
+        {
+          "name": "126dukon",
+          "usd": 16.923,
+          "uzs": 0
+        },
+        {
+          "name": "88-Do'kon Mayramxon apa",
+          "usd": 69.958,
+          "uzs": 0
+        },
+        {
+          "name": "90-Do'kon",
+          "usd": 42.345,
+          "uzs": 0
+        },
+        {
+          "name": "UKTAM AKA MAHALLA",
+          "usd": 842.094,
+          "uzs": 0
+        },
+        {
+          "name": "Mansur aka Mahalla",
+          "usd": 88.793,
+          "uzs": 0
+        },
+        {
+          "name": "111-Do\"kon .",
+          "usd": 38.509,
+          "uzs": 0
+        },
+        {
+          "name": "69-Do`kon Baxtiyor Aka",
+          "usd": 152.87,
+          "uzs": 0
+        },
+        {
+          "name": "Sardorxon Kontener",
+          "usd": 93.72,
+          "uzs": 0
+        },
+        {
+          "name": "Mahliyo opa  mahalla",
+          "usd": 142.443,
+          "uzs": 0
+        },
+        {
+          "name": "Dilnavoz Apa Mahalla Holbek yoni",
+          "usd": 194.95,
+          "uzs": 0
+        },
+        {
+          "name": "57-Do`kon",
+          "usd": 502.949,
+          "uzs": 0
+        },
+        {
+          "name": "Abdulazizxon 172 Dukon MSM ",
+          "usd": 242.168,
+          "uzs": 0
+        },
+        {
+          "name": "Kantiner Darvoza Alyorjon aka",
+          "usd": 676.278,
+          "uzs": 0
+        },
+        {
+          "name": "Abubakir Uka",
+          "usd": 163.2,
+          "uzs": 0
+        },
+        {
+          "name": "Mashxuraxon apa",
+          "usd": 668.68,
+          "uzs": 0
+        },
+        {
+          "name": "Salohiddin Uktam akani oldi",
+          "usd": 280.848,
+          "uzs": 0
+        },
+        {
+          "name": "Laziz aka kerasis kantiner",
+          "usd": 788.714,
+          "uzs": 0
+        },
+        {
+          "name": "23dukon  ",
+          "usd": 202.476,
+          "uzs": 0
+        },
+        {
+          "name": "116dukon",
+          "usd": 0.211,
+          "uzs": 0
+        },
+        {
+          "name": "3blok Murotxon",
+          "usd": 259.95,
+          "uzs": 0
+        },
+        {
+          "name": "Lazizxon Aka Mahalla",
+          "usd": 961.007,
+          "uzs": 0
+        },
+        {
+          "name": "119DUKON",
+          "usd": 296.64,
+          "uzs": 0
+        },
+        {
+          "name": "Toxir aka Myasa Dom",
+          "usd": 781.972,
+          "uzs": 0
+        },
+        {
+          "name": "Jamshidjon Aka Kontener²",
+          "usd": 457.057,
+          "uzs": 0
+        },
+        {
+          "name": "45-Do`kon",
+          "usd": 99.966,
+          "uzs": 0
+        },
+        {
+          "name": "AbduHamid aka kantiner",
+          "usd": 109.373,
+          "uzs": 0
+        },
+        {
+          "name": "Muzaffar aka Kontener.",
+          "usd": 77.994,
+          "uzs": 0
+        },
+        {
+          "name": "Xolbek mahalla",
+          "usd": 199.995,
+          "uzs": 0
+        },
+        {
+          "name": "74-Do`kon ",
+          "usd": 540.334,
+          "uzs": 0
+        },
+        {
+          "name": "Johongir  aka mahalla",
+          "usd": 176.552,
+          "uzs": 0
+        },
+        {
+          "name": "34dukon",
+          "usd": 570.192,
+          "uzs": 0
+        },
+        {
+          "name": "Naxtga Jinnixona",
+          "usd": 292.202,
+          "uzs": 0
+        },
+        {
+          "name": "ABDURAHMON AKA mahalla",
+          "usd": 197.021,
+          "uzs": 0
+        },
+        {
+          "name": "Abubakir. Kontener",
+          "usd": 1496.488,
+          "uzs": 0
+        }
+      ],
+      "totalUSD": 19795.081000000002,
+      "totalUZS": 0,
+      "debtorCount": 62
+    },
+    {
+      "name": "Bahodirjon",
+      "debtors": [
+        {
+          "name": "Dildora apa",
+          "usd": 0,
+          "uzs": 4393705
+        },
+        {
+          "name": "Ahmadjon ",
+          "usd": 26.02,
+          "uzs": 0
+        },
+        {
+          "name": "Muydin Aka Farg'ona",
+          "usd": 0,
+          "uzs": 43362
+        },
+        {
+          "name": "Ibroximjon 4840 (1-Dukon) ЧУСТ",
+          "usd": 0,
+          "uzs": 4254750
+        },
+        {
+          "name": "MUHAYYO OPA F Farg'ona",
+          "usd": 37.971,
+          "uzs": 0
+        },
+        {
+          "name": "Dilshod aka 2003",
+          "usd": 19.706,
+          "uzs": 0
+        },
+        {
+          "name": "nasimhon ",
+          "usd": 62.464,
+          "uzs": 0
+        },
+        {
+          "name": "Andijon klent ",
+          "usd": 10,
+          "uzs": 3276000
+        },
+        {
+          "name": "Rizoxon AkaFarg'ona",
+          "usd": 0,
+          "uzs": 1063200
+        },
+        {
+          "name": "DILMUROD AKA KIYIM Farg'ona",
+          "usd": 4.374,
+          "uzs": 0
+        },
+        {
+          "name": "Sayithon aka ",
+          "usd": 49.587,
+          "uzs": 0
+        },
+        {
+          "name": "Naqat",
+          "usd": 0,
+          "uzs": 2500128.72
+        },
+        {
+          "name": "Bobo Aka Farg'ona",
+          "usd": 0,
+          "uzs": 2593992
+        },
+        {
+          "name": "Mirshoxid aka cam",
+          "usd": 0,
+          "uzs": 2098533
+        },
+        {
+          "name": "Jaffar aka ",
+          "usd": 7.271,
+          "uzs": 0
+        },
+        {
+          "name": "Abror Aka Farg'ona",
+          "usd": 0,
+          "uzs": 11142108.84
+        },
+        {
+          "name": "Izzatulloh Aka Farg'ona",
+          "usd": 0,
+          "uzs": 635000
+        },
+        {
+          "name": "Hurshid aka apteka",
+          "usd": 2116.173,
+          "uzs": 0
+        },
+        {
+          "name": "MuxammadBobur aka farg'ona",
+          "usd": 246.821,
+          "uzs": 0
+        },
+        {
+          "name": "MUHAMMAD UMAR AKA 6677",
+          "usd": 540.35,
+          "uzs": 0
+        },
+        {
+          "name": "Bohodirjon",
+          "usd": 673.845,
+          "uzs": 2071951.09
+        },
+        {
+          "name": "Bonu apa 9609",
+          "usd": 0,
+          "uzs": 1363866
+        },
+        {
+          "name": "Iskandar aka Farg'ona",
+          "usd": 0,
+          "uzs": 1809470
+        },
+        {
+          "name": "Umid aka dehqon bozor",
+          "usd": 0,
+          "uzs": 271300
+        },
+        {
+          "name": "Maftuna opa Farg'ona",
+          "usd": 0,
+          "uzs": 318916
+        },
+        {
+          "name": "Muhammadjon aka 9336",
+          "usd": 5.763,
+          "uzs": 0
+        },
+        {
+          "name": "RUZMUHAMMADJON Farg'ona",
+          "usd": 963.767,
+          "uzs": 0
+        },
+        {
+          "name": "Qobil aka Farg'ona",
+          "usd": 0,
+          "uzs": 277308
+        },
+        {
+          "name": "Usmon Aka Farg'ona",
+          "usd": 3.66,
+          "uzs": 0
+        },
+        {
+          "name": "Murodjon Aka Farg'ona",
+          "usd": 48.309,
+          "uzs": 15123880
+        },
+        {
+          "name": "Rustamhon Farg'ona",
+          "usd": 24.765,
+          "uzs": 0
+        },
+        {
+          "name": "Akmal Aka Fergana",
+          "usd": 0,
+          "uzs": 370801.8
+        },
+        {
+          "name": "Jaxongir aka Farg'ona",
+          "usd": 0,
+          "uzs": 8232400
+        },
+        {
+          "name": "Ollohberdi Aka Farg'ona",
+          "usd": 139.149,
+          "uzs": 0
+        },
+        {
+          "name": "Baxtieraka 1888 ЧУСТ",
+          "usd": 0,
+          "uzs": 3976180
+        },
+        {
+          "name": "Nosirxon Aka Farg'ona",
+          "usd": 0,
+          "uzs": 28136775
+        }
+      ],
+      "totalUSD": 4979.995,
+      "totalUZS": 93953627.44999999,
+      "debtorCount": 36
+    },
+    {
+      "name": "Behruz",
+      "debtors": [
+        {
+          "name": "Mahdi ATX 115-dom",
+          "usd": 0,
+          "uzs": 773951
+        },
+        {
+          "name": "7saber astanofka Toshkent pitak",
+          "usd": 0,
+          "uzs": 200000
+        },
+        {
+          "name": "Xojibek guzar sleppy",
+          "usd": 0,
+          "uzs": 150000
+        },
+        {
+          "name": "shayxul islom market",
+          "usd": 0,
+          "uzs": 100000
+        },
+        {
+          "name": "Munisa market derezlik",
+          "usd": 0,
+          "uzs": 604200
+        },
+        {
+          "name": "Ishonch market dang'ara balnitsa yo'li",
+          "usd": 0,
+          "uzs": 200700
+        },
+        {
+          "name": "4-shifoxona yoni apteka",
+          "usd": 0,
+          "uzs": 840960
+        },
+        {
+          "name": "sleppy apteka sentr charxi",
+          "usd": 0,
+          "uzs": 976800
+        },
+        {
+          "name": "Tulqinjon ota",
+          "usd": 0,
+          "uzs": 249700
+        },
+        {
+          "name": "darxon market",
+          "usd": 0,
+          "uzs": 400
+        },
+        {
+          "name": "Abdulloh 77",
+          "usd": 0,
+          "uzs": 650000
+        },
+        {
+          "name": "dorixona raddom yoni",
+          "usd": 0,
+          "uzs": 3052249.4
+        },
+        {
+          "name": "dorixona 20-maktab orqasi",
+          "usd": 0,
+          "uzs": 1732915.49
+        },
+        {
+          "name": "savatcha market",
+          "usd": 0,
+          "uzs": 554300
+        },
+        {
+          "name": "Tojmahal market Nodirjon",
+          "usd": 0,
+          "uzs": 351900
+        },
+        {
+          "name": "Anor ayrilish",
+          "usd": 0,
+          "uzs": 542260
+        },
+        {
+          "name": "sayxun market",
+          "usd": 0,
+          "uzs": 601500
+        },
+        {
+          "name": "Elshod market roparasi",
+          "usd": 0,
+          "uzs": 584000
+        },
+        {
+          "name": "Zaytun ximik",
+          "usd": 0,
+          "uzs": 1175700
+        },
+        {
+          "name": "gumbazli dukon derezli",
+          "usd": 0,
+          "uzs": 500000
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 13841535.89,
+      "debtorCount": 20
+    },
+    {
+      "name": "M Yusuf",
+      "debtors": [
+        {
+          "name": "Динарахон",
+          "usd": 61.6,
+          "uzs": 0
+        },
+        {
+          "name": "Хапизхон ака м.с.м ",
+          "usd": 0,
+          "uzs": 2984
+        },
+        {
+          "name": "Мунавваржон ака махалла",
+          "usd": 0,
+          "uzs": 20276
+        },
+        {
+          "name": "Фаробий Зулфикор ",
+          "usd": 0,
+          "uzs": 1849760
+        },
+        {
+          "name": "Улугбек ака м.с.м дукон",
+          "usd": 0,
+          "uzs": 800684
+        },
+        {
+          "name": "Saidxon MSM",
+          "usd": 0,
+          "uzs": 712700
+        },
+        {
+          "name": "Хожи амаки м.с.м 28-дукон",
+          "usd": 0,
+          "uzs": 537150
+        },
+        {
+          "name": "Жохонгир ака Милениум 2/1",
+          "usd": 0,
+          "uzs": 60000
+        },
+        {
+          "name": "Sleppy Sardor Kontener",
+          "usd": 0,
+          "uzs": 2000000
+        },
+        {
+          "name": "Дилафуруз апа м.с.м 46-дукон",
+          "usd": 0,
+          "uzs": 4900000
+        },
+        {
+          "name": "Музаффар ака печени м.с.м",
+          "usd": 0,
+          "uzs": 2000000
+        },
+        {
+          "name": "Акмал ака би 2-дукон",
+          "usd": 0,
+          "uzs": 938155
+        },
+        {
+          "name": "Komilaxon opa 9/7 biy",
+          "usd": 0,
+          "uzs": 560260
+        },
+        {
+          "name": "Абдумалик ака 3/4",
+          "usd": 0,
+          "uzs": 185000
+        },
+        {
+          "name": "Абдулазизхон ака м.с.м 44-дукон",
+          "usd": 0,
+          "uzs": 908870
+        },
+        {
+          "name": "Мухтор ака 10/12",
+          "usd": 0,
+          "uzs": 1600000
+        },
+        {
+          "name": "Элдор ака 12/8",
+          "usd": 0,
+          "uzs": 250000
+        },
+        {
+          "name": "Контейнер Акмалхон",
+          "usd": 2.1,
+          "uzs": 0
+        },
+        {
+          "name": "Zulfiyaxon opa Mumtoz",
+          "usd": 0,
+          "uzs": 187547
+        },
+        {
+          "name": "Смайл кореан шоп Азизхон",
+          "usd": 0,
+          "uzs": 740000
+        },
+        {
+          "name": "Рузматова Иродахон ",
+          "usd": 37.185,
+          "uzs": 0
+        }
+      ],
+      "totalUSD": 100.885,
+      "totalUZS": 18253386,
+      "debtorCount": 21
+    },
+    {
+      "name": "Murod aka",
+      "debtors": [
+        {
+          "name": "Нишонова Мухлисахон ",
+          "usd": 900,
+          "uzs": 0
+        },
+        {
+          "name": "Угилой МСМ 109 Дукон ",
+          "usd": 178,
+          "uzs": 0
+        },
+        {
+          "name": "Умиджон",
+          "usd": 192.8,
+          "uzs": 0
+        },
+        {
+          "name": "Жамхон ",
+          "usd": 10.7,
+          "uzs": 0
+        },
+        {
+          "name": "Улугбек Яйпан",
+          "usd": 0,
+          "uzs": 1455000
+        },
+        {
+          "name": "Эгамберди бешарик",
+          "usd": 0,
+          "uzs": 700601
+        },
+        {
+          "name": "Яйпан Санжар",
+          "usd": 60,
+          "uzs": 0
+        },
+        {
+          "name": "Мумтоз Шарифа опа",
+          "usd": 1900,
+          "uzs": 0
+        },
+        {
+          "name": "Муслимахон мумтоз",
+          "usd": 607,
+          "uzs": 0
+        },
+        {
+          "name": "Смайл Мумтоз Муслимахон",
+          "usd": 440,
+          "uzs": 0
+        },
+        {
+          "name": "Смайл Ганишер",
+          "usd": 347.5,
+          "uzs": 0
+        },
+        {
+          "name": "Прима Иброхимжон",
+          "usd": 265,
+          "uzs": 0
+        },
+        {
+          "name": "Clappers Мумтоз Зулфияхон опа",
+          "usd": 132,
+          "uzs": 0
+        },
+        {
+          "name": "Смайл Махалла Маҳлиёхон",
+          "usd": 0,
+          "uzs": 460000
+        },
+        {
+          "name": "Смайл Мухайёхон",
+          "usd": 0,
+          "uzs": 214100
+        },
+        {
+          "name": "Смайл Муродхон",
+          "usd": 0,
+          "uzs": 4439000
+        },
+        {
+          "name": "Ботир ака кареан шоп",
+          "usd": 102,
+          "uzs": 0
+        },
+        {
+          "name": "Прима БИЙ Икболжон",
+          "usd": 100,
+          "uzs": 0
+        },
+        {
+          "name": "Clappers БИЙ Зиёдахон",
+          "usd": 270,
+          "uzs": 0
+        },
+        {
+          "name": "БИЙ Хусниддин",
+          "usd": 116.65,
+          "uzs": 0
+        },
+        {
+          "name": "Маҳалла Юлдузхон",
+          "usd": 78,
+          "uzs": 0
+        },
+        {
+          "name": "Smile baby Муродхон",
+          "usd": 0,
+          "uzs": 482000
+        },
+        {
+          "name": "Прима Муродхон",
+          "usd": 407,
+          "uzs": 0
+        },
+        {
+          "name": "Контейнер Исломжон",
+          "usd": 80,
+          "uzs": 0
+        },
+        {
+          "name": "Preline Кулдашев Азизхон",
+          "usd": 90,
+          "uzs": 0
+        },
+        {
+          "name": "Смайл Контейнер Исломбек",
+          "usd": 0,
+          "uzs": 300000
+        }
+      ],
+      "totalUSD": 6276.65,
+      "totalUZS": 8050701,
+      "debtorCount": 26
+    },
+    {
+      "name": "Muxayyo",
+      "debtors": [
+        {
+          "name": "Pepsi Muborak yoni",
+          "usd": 0,
+          "uzs": 727340
+        },
+        {
+          "name": "ipak yuli turkiston kucha",
+          "usd": 0,
+          "uzs": 200157
+        },
+        {
+          "name": "ximik astanovka",
+          "usd": 0,
+          "uzs": 254150
+        },
+        {
+          "name": "Dilnozaxon xola dang'ara",
+          "usd": 0,
+          "uzs": 147898
+        },
+        {
+          "name": "asl market ",
+          "usd": 0,
+          "uzs": 255719
+        },
+        {
+          "name": "Xon market",
+          "usd": 0,
+          "uzs": 213265
+        },
+        {
+          "name": "Kavsar market",
+          "usd": 0,
+          "uzs": 548
+        },
+        {
+          "name": "AlFajr",
+          "usd": 0,
+          "uzs": 1762247
+        },
+        {
+          "name": "Tabiat Malhamlari",
+          "usd": 0,
+          "uzs": 423000
+        },
+        {
+          "name": "Bek market 40-let",
+          "usd": 0,
+          "uzs": 336
+        },
+        {
+          "name": "Zaytun Ekstrenniy ",
+          "usd": 0,
+          "uzs": 1301536
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 5286196,
+      "debtorCount": 11
+    },
+    {
+      "name": "Muxtor aka",
+      "debtors": [
+        {
+          "name": "Onlem Muslimaxon",
+          "usd": 470,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Abduvoris farobiy",
+          "usd": 60.4,
+          "uzs": 2550000
+        },
+        {
+          "name": " Akmalxon 23/1",
+          "usd": 647.37,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem axror dermoped",
+          "usd": 150,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Doston o'rtaqo'rg'on",
+          "usd": 90.09,
+          "uzs": 300000
+        },
+        {
+          "name": "Onlem Nurislom",
+          "usd": 53.18,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Umidjon ",
+          "usd": 651.08,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Xurshidjon ",
+          "usd": 461.6,
+          "uzs": 0
+        },
+        {
+          "name": "Islom 18/9",
+          "usd": 18.72,
+          "uzs": 0
+        },
+        {
+          "name": "Snikres Yaypan 2",
+          "usd": 603.929,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Egambrdi Beshariq ",
+          "usd": 64.25,
+          "uzs": 0
+        },
+        {
+          "name": "sleppy 94 Ilyos aka",
+          "usd": 0,
+          "uzs": 1130800
+        },
+        {
+          "name": "Xo'ja market Yaypan 06-00",
+          "usd": 0,
+          "uzs": 2478000
+        },
+        {
+          "name": "Ulug'bek Yaypan ",
+          "usd": 799.08,
+          "uzs": 3348000
+        },
+        {
+          "name": "Onlem Zulfiya opa ",
+          "usd": 40,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Bexruz stoyanka",
+          "usd": 375.857,
+          "uzs": 0
+        },
+        {
+          "name": "oila",
+          "usd": 0,
+          "uzs": 1000000
+        },
+        {
+          "name": "Karimbek ota 777",
+          "usd": 0,
+          "uzs": 1276000
+        },
+        {
+          "name": "Onlem Sarvar farm 2 filial Rishton ",
+          "usd": 154.2,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Sharifa xola ",
+          "usd": 139,
+          "uzs": 0
+        },
+        {
+          "name": "Moida market bolshevik",
+          "usd": 0,
+          "uzs": 236000
+        },
+        {
+          "name": "Onlem Salohiddin 20/2",
+          "usd": 453.57,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem A5 farm",
+          "usd": 0,
+          "uzs": 2972000
+        },
+        {
+          "name": "Onlem Kenjaxon opa",
+          "usd": 479.91,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem O'g'iloy opa",
+          "usd": 638.15,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Ziyoda opa ",
+          "usd": 50,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Orif farobiy ",
+          "usd": 12,
+          "uzs": 0
+        },
+        {
+          "name": "Xamid aka yangiqo'rg'on ",
+          "usd": 41.346,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Nurmuhammad Lalaku ",
+          "usd": 2580,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Ilhomjon 4/14",
+          "usd": 259.8,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Yulduz xon maxalla",
+          "usd": 329.5,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Anor farm Rishton ",
+          "usd": 0,
+          "uzs": 5500525
+        },
+        {
+          "name": "Shahnozaxon mumtoz ",
+          "usd": 100,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Sodirjon mumtoz",
+          "usd": 200,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem O'rinboy ota apteka Rishton ",
+          "usd": 0,
+          "uzs": 20045820
+        },
+        {
+          "name": "Onlem Xusniddin",
+          "usd": 0,
+          "uzs": 4664800
+        },
+        {
+          "name": "Onlem Iqbol choy",
+          "usd": 1697,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Gilet ",
+          "usd": 87,
+          "uzs": 0
+        },
+        {
+          "name": "Sherxon Yaypan",
+          "usd": 4940,
+          "uzs": 0
+        },
+        {
+          "name": "Onlem Axror 22",
+          "usd": 170,
+          "uzs": 0
+        },
+        {
+          "name": "Maxfuza opa mumtoz ",
+          "usd": 40,
+          "uzs": 0
+        }
+      ],
+      "totalUSD": 16857.032,
+      "totalUZS": 45501945,
+      "debtorCount": 41
+    },
+    {
+      "name": "Shuhrat aka Agent",
+      "debtors": [
+        {
+          "name": "Avrora market Noib kuprigi",
+          "usd": 0,
+          "uzs": 129800
+        },
+        {
+          "name": "Sardor market Dangara",
+          "usd": 0,
+          "uzs": 1070400
+        },
+        {
+          "name": "Koppon 579",
+          "usd": 0,
+          "uzs": 325000
+        },
+        {
+          "name": "Akhmadaliyev's kafe",
+          "usd": 0,
+          "uzs": 672657
+        },
+        {
+          "name": "Maxmudjon Igamberdiev",
+          "usd": 0,
+          "uzs": 1031919.38
+        },
+        {
+          "name": "Zubayir market ",
+          "usd": 0,
+          "uzs": 2894391
+        },
+        {
+          "name": "Globus.",
+          "usd": 0,
+          "uzs": 2340000
+        },
+        {
+          "name": "Eliktroni magazin",
+          "usd": 0,
+          "uzs": 1621289
+        },
+        {
+          "name": "ECO market Saloxiddin ota",
+          "usd": 0,
+          "uzs": 155000
+        },
+        {
+          "name": "Koppon 1 dukon",
+          "usd": 0,
+          "uzs": 3360000
+        },
+        {
+          "name": "Musoxon Market Achchiqkul",
+          "usd": 0,
+          "uzs": 720000
+        },
+        {
+          "name": "Avgonbog stansiya ichi market",
+          "usd": 0,
+          "uzs": 3694000
+        },
+        {
+          "name": "koppon 1 Qaxramon aka",
+          "usd": 0,
+          "uzs": 2528000
+        },
+        {
+          "name": "Донйорбек",
+          "usd": 0,
+          "uzs": 6000
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 20548456.38,
+      "debtorCount": 14
+    },
+    {
+      "name": "Shuhrat aka Rayon",
+      "debtors": [
+        {
+          "name": "asl baraka ",
+          "usd": 0,
+          "uzs": 869205
+        },
+        {
+          "name": "kappon",
+          "usd": 0,
+          "uzs": 720256
+        },
+        {
+          "name": "nur markettt",
+          "usd": 0,
+          "uzs": 629937
+        },
+        {
+          "name": "777 market ..",
+          "usd": 0,
+          "uzs": 600000
+        },
+        {
+          "name": "ахмаджон ",
+          "usd": 0,
+          "uzs": 310655.6
+        },
+        {
+          "name": "Donyorjon",
+          "usd": 0,
+          "uzs": 944522.16
+        },
+        {
+          "name": "Ayfon",
+          "usd": 0,
+          "uzs": 149914.5
+        },
+        {
+          "name": "Mohidilhon",
+          "usd": 0,
+          "uzs": 181870
+        },
+        {
+          "name": "Koppon",
+          "usd": 0,
+          "uzs": 1454192
+        },
+        {
+          "name": "Zubayir ",
+          "usd": 0,
+          "uzs": 135448
+        },
+        {
+          "name": "Orzigulapa",
+          "usd": 0,
+          "uzs": 822278
+        },
+        {
+          "name": "Nigoraxon",
+          "usd": 0,
+          "uzs": 570848
+        },
+        {
+          "name": "Абдуллох",
+          "usd": 0,
+          "uzs": 383319
+        },
+        {
+          "name": "Konizar",
+          "usd": 0,
+          "uzs": 1557945
+        },
+        {
+          "name": "Karvon Chodak",
+          "usd": 0,
+          "uzs": 400225
+        },
+        {
+          "name": "Doniyorbek Qushqanoq",
+          "usd": 0,
+          "uzs": 2150000
+        },
+        {
+          "name": "Dukoncha Kalvek 17",
+          "usd": 0,
+          "uzs": 350000
+        },
+        {
+          "name": "Nasiya savdo",
+          "usd": 0,
+          "uzs": 419231.3
+        },
+        {
+          "name": "Benom Sanam qishloq",
+          "usd": 0,
+          "uzs": 930345
+        },
+        {
+          "name": "Ziyo market .",
+          "usd": 0,
+          "uzs": 767147
+        },
+        {
+          "name": "Optom pamper",
+          "usd": 0,
+          "uzs": 2841378
+        },
+        {
+          "name": "Gulmiraxon",
+          "usd": 0,
+          "uzs": 108475
+        },
+        {
+          "name": "Gulmirahon",
+          "usd": 0,
+          "uzs": 3080855
+        },
+        {
+          "name": "Bolalar dunyosi",
+          "usd": 0,
+          "uzs": 41258
+        },
+        {
+          "name": "Dilshunos",
+          "usd": 0,
+          "uzs": 4008904
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 24428208.560000002,
+      "debtorCount": 25
+    },
+    {
+      "name": "Sleepy Bozor 2",
+      "debtors": [
+        {
+          "name": "Ziroat opa",
+          "usd": 30,
+          "uzs": 0
+        },
+        {
+          "name": "Sleppy Umidjon",
+          "usd": 123.22,
+          "uzs": 0
+        },
+        {
+          "name": "Sleppy Muslimaxon Mumtoz",
+          "usd": 169.005,
+          "uzs": 0
+        },
+        {
+          "name": "Sleppy Akramxo'ja",
+          "usd": 1532.64,
+          "uzs": 0
+        },
+        {
+          "name": "Xurshid Xaromxo'r",
+          "usd": 1413.02,
+          "uzs": 0
+        },
+        {
+          "name": "Akmalxon aka Kontener ",
+          "usd": 0,
+          "uzs": 800000
+        },
+        {
+          "name": "SLEPPY Murodjon M.S.M 3 block ",
+          "usd": 0,
+          "uzs": 1575000
+        },
+        {
+          "name": "Maxmudjon Aka Kontener ",
+          "usd": 0,
+          "uzs": 2250000
+        },
+        {
+          "name": "Sleppy Novza market",
+          "usd": 0,
+          "uzs": 509220
+        },
+        {
+          "name": "Ilxomjon mumtoz",
+          "usd": 199.981,
+          "uzs": 0
+        },
+        {
+          "name": "Sleppy Maxliyoxon maxalla",
+          "usd": 0,
+          "uzs": 987960
+        },
+        {
+          "name": "Murod aka agent",
+          "usd": 0,
+          "uzs": 485600
+        },
+        {
+          "name": "G'anisher yangi avtovakzal",
+          "usd": 0,
+          "uzs": 1681999.98
+        },
+        {
+          "name": "Rustam aka 158 Msm",
+          "usd": 0,
+          "uzs": 300000
+        },
+        {
+          "name": "Sleppy Orif aka",
+          "usd": 0,
+          "uzs": 2250000
+        },
+        {
+          "name": "Isroiljon  Andijon stoyanka ",
+          "usd": 0,
+          "uzs": 3000000
+        },
+        {
+          "name": "Ibroxim aka  Biy",
+          "usd": 0,
+          "uzs": 3000000
+        },
+        {
+          "name": "sleppy Axror aka maxalla",
+          "usd": 0,
+          "uzs": 2392000
+        },
+        {
+          "name": "SLEPPY Kamoliddin B.I.Y.",
+          "usd": 0,
+          "uzs": 675000
+        },
+        {
+          "name": "O'ktam aka maxalla MSM",
+          "usd": 0,
+          "uzs": 2250000
+        },
+        {
+          "name": "Mamlakat opa konteyner ",
+          "usd": 0,
+          "uzs": 1000000
+        },
+        {
+          "name": "B.I.Y. 9/1 Xojiakbar ",
+          "usd": 0,
+          "uzs": 907200
+        },
+        {
+          "name": "Furqat maxalla msm",
+          "usd": 0,
+          "uzs": 2591102.95
+        },
+        {
+          "name": "Zulfiyaxon opa Mumtoz",
+          "usd": 0,
+          "uzs": 1350000
+        },
+        {
+          "name": "Nozima farm",
+          "usd": 0,
+          "uzs": 1442000
+        },
+        {
+          "name": "Mansur aka Mahalla",
+          "usd": 0,
+          "uzs": 1830000
+        },
+        {
+          "name": "Sleppy Oybek",
+          "usd": 0,
+          "uzs": 1826400
+        },
+        {
+          "name": "Sleppy Jamila xola",
+          "usd": 84.8,
+          "uzs": 0
+        },
+        {
+          "name": "sleppy Valijon aka 126",
+          "usd": 0,
+          "uzs": 925000
+        },
+        {
+          "name": "Shahnozaxon mumtoz ",
+          "usd": 0,
+          "uzs": 1450000
+        },
+        {
+          "name": "Kamolov Nurmuxammad BIY 1/18",
+          "usd": 0,
+          "uzs": 1396000
+        },
+        {
+          "name": "Iroda opa biy",
+          "usd": 0,
+          "uzs": 2325600
+        },
+        {
+          "name": "sleppy myaso dom maxalla",
+          "usd": 0,
+          "uzs": 500000
+        },
+        {
+          "name": "Shavkat aka 19/1",
+          "usd": 0,
+          "uzs": 1686000
+        },
+        {
+          "name": "Xusniddin aka Olmosxon opa 13/8",
+          "usd": 0,
+          "uzs": 5966446.964
+        },
+        {
+          "name": "Xolbek mahalla",
+          "usd": 0,
+          "uzs": 450000
+        },
+        {
+          "name": "Maxfuza opa mumtoz ",
+          "usd": 0,
+          "uzs": 475000
+        },
+        {
+          "name": "Arzon Savdo farobiy",
+          "usd": 0,
+          "uzs": 3150000
+        }
+      ],
+      "totalUSD": 3552.666,
+      "totalUZS": 51427529.894,
+      "debtorCount": 38
+    },
+    {
+      "name": "Veronika",
+      "debtors": [
+        {
+          "name": "фоод маркет",
+          "usd": 0,
+          "uzs": 890107
+        },
+        {
+          "name": "lazziyo market",
+          "usd": 0,
+          "uzs": 1732620
+        },
+        {
+          "name": "Гилам ювиш кашер",
+          "usd": 0,
+          "uzs": 18468
+        },
+        {
+          "name": "Шох",
+          "usd": 0,
+          "uzs": 2446942
+        },
+        {
+          "name": "Мухамад",
+          "usd": 0,
+          "uzs": 6578474
+        },
+        {
+          "name": "Zaytun ximik",
+          "usd": 0,
+          "uzs": 239706
+        },
+        {
+          "name": "Fayz market",
+          "usd": 0,
+          "uzs": 600651
+        },
+        {
+          "name": "Apteka Center ",
+          "usd": 0,
+          "uzs": 800
+        },
+        {
+          "name": "Аюбхон маркет",
+          "usd": 0,
+          "uzs": 273245
+        },
+        {
+          "name": "Холбек маркет",
+          "usd": 0,
+          "uzs": 964112
+        },
+        {
+          "name": "Мубина",
+          "usd": 0,
+          "uzs": 786588
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 14531713,
+      "debtorCount": 11
+    },
+    {
+      "name": "Zuxra",
+      "debtors": [
+        {
+          "name": "navbaxor market ",
+          "usd": 0,
+          "uzs": 1341332.6
+        },
+        {
+          "name": "Mir Market Yangi chorsu",
+          "usd": 0,
+          "uzs": 1359787.6
+        },
+        {
+          "name": "Chorsu market",
+          "usd": 0,
+          "uzs": 47847
+        },
+        {
+          "name": "Mm yarmarka",
+          "usd": 0,
+          "uzs": 10904
+        },
+        {
+          "name": "Archazor Osh",
+          "usd": 0,
+          "uzs": 408000
+        },
+        {
+          "name": "Quqonboy davlataka",
+          "usd": 0,
+          "uzs": 972330
+        },
+        {
+          "name": "Gilette Market",
+          "usd": 0,
+          "uzs": 289010.94
+        },
+        {
+          "name": "Abdullox 77 baqachorsu",
+          "usd": 0,
+          "uzs": 980
+        },
+        {
+          "name": "21 deuk kopon dilafruzapa",
+          "usd": 0,
+          "uzs": 310599
+        },
+        {
+          "name": "Xojibek guzar",
+          "usd": 0,
+          "uzs": 269768
+        }
+      ],
+      "totalUSD": 0,
+      "totalUZS": 5010559.140000001,
+      "debtorCount": 10
+    }
+  ]
+}
