@@ -1,0 +1,9 @@
+# Nixpacks configuration for Node.js
+[phases.setup]
+nixPkgs = ["nodejs_18"]
+
+[phases.install]
+cmds = ["npm install"]
+
+[start]
+cmd = "node server.js"
